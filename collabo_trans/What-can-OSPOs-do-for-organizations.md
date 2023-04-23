@@ -1,5 +1,8 @@
 # What can OSPOs do for organizations?
 
+[![hackmd-github-sync-badge](https://hackmd.io/A-29gzuzSZKfqwQfA5BNsQ/badge)](https://hackmd.io/A-29gzuzSZKfqwQfA5BNsQ)
+
+
 ###### tags: `value_of_ospo_paper`
 
 > P58710E28-tu78
