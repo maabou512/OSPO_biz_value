@@ -1,5 +1,8 @@
 # Forewords
 
+[![hackmd-github-sync-badge](https://hackmd.io/L_zoSZgMRl2jbXVZkv7rcg/badge)](https://hackmd.io/L_zoSZgMRl2jbXVZkv7rcg)
+
+
 ###### tags: `value_of_ospo_paper`
 
 > P70123D5-tu1
