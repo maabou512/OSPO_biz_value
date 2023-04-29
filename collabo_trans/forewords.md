@@ -35,7 +35,7 @@
 
 > <g id="1">組織がオープンソース プログラム オフィス (OSPO) を作成、維持、拡大する理由の調査</g>
 
-<g id="1">組織がオープンソース プログラム オフィス (OSPO) を作成、維持、拡大する理由の調査</g>
+<g id="1">組織がオープンソース プログラム オフィス (OSPO) を設立、維持、拡大する理由の調査</g>
 
 > P4065E1BD-tu3
 
@@ -49,9 +49,9 @@
 
 > <g id="1">Emily Omier, Positioning &amp; Messaging Consultant, <g id="2">Emily Omier Consulting<x id="3"/></g></g><g id="4">Chris Aniszczyk, CTO, <g id="5">Cloud Native Computing Foundation</g></g>
 
-> <g id="1">エミリー・オミエ、ポジショニング&amp;メッセージング コンサルタント、<g id="2">Emily Omier Consulting<x id="3"/></g></g><g id="4">Chris Aniszczyk、CTO、<g id="5">クラウド ネイティブ コンピューティング ファウンデーション</g></g>
+> <g id="1">エミリー・オミエ、ポジショニング&amp;メッセージング コンサルタント、<g id="2">Emily Omier Consulting<x id="3"/></g></g><g id="4">Chris Aniszczyk、CTO、<g id="5">クラウドネイティブコンピューティングファウンデーション</g></g>
 
-<g id="1">エミリー・オミエ、ポジショニング&amp;メッセージング コンサルタント、<g id="2">Emily Omier Consulting<x id="3"/></g></g><g id="4">Chris Aniszczyk、CTO、<g id="5">クラウド ネイティブ コンピューティング ファウンデーション</g></g>
+<g id="1">Emily Omier、ポジショニング&amp;メッセージング コンサルタント、<g id="2">Emily Omier Consulting<x id="3"/></g></g><g id="4">Chris Aniszczyk、CTO、<g id="5">Cloud Native Computing Foundation</g></g>
 
 > P4065E1BD-tu5
 
@@ -65,9 +65,9 @@
 
 > <g id="1">With forewords by Georg Kunz, Open Source Manager, <g id="2">Ericsson,</g> <x id="3"/>Leslie Hawthorn, Sr. Manager, <g id="4">Red Hat OSPO </g>and<g id="5"> <x id="6"/></g>Kimberly Craven, Sr. Director, <g id="7">Red Hat OSPO, Office of the CTO</g></g>
 
-> <g id="1">Georg Kunz (オープン ソース マネージャー)、<g id="2">Ericsson</g>、<x id="3"/>Leslie Hawthorn (シニア マネージャー) による序文付き、 <g id="4">Red Hat OSPO </g>および<g id="5"> <x id="6"/></g>Kimberly Craven、シニア ディレクター、<g id="7">Red Hat OSPO、CTO オフィス</g></g>
+<g id="1">Georg Kunz (オープン ソース マネージャー)、<g id="2">Ericsson</g>、Leslie Hawthorn (シニア マネージャー) による序文付き、 <g id="4">Red Hat OSPO </g>および<g id="5"> <x id="6"/></g>Kimberly Craven、シニア ディレクター、<g id="7">Red Hat OSPO、CTO オフィス</g></g>
 
-<g id="1">Georg Kunz (オープン ソース マネージャー)、<g id="2">Ericsson</g>、<x id="3"/>Leslie Hawthorn (シニア マネージャー) による序文付き、 <g id="4">Red Hat OSPO </g>および<g id="5"> <x id="6"/></g>Kimberly Craven、シニア ディレクター、<g id="7">Red Hat OSPO、CTO オフィス</g></g>
+<g id="1">Georg Kunz (オープン ソース マネージャー)、<g id="2">Ericsson</g>、Leslie Hawthorn (シニア マネージャー) による序文付き、 <g id="4">Red Hat OSPO </g>および<g id="5"> <x id="6"/></g>Kimberly Craven、シニア ディレクター、<g id="7">Red Hat OSPO、CTO オフィス</g></g>
 
 > P462D85A6-tu1
 
@@ -107,15 +107,15 @@
 
 > <g id="1">OSPO がビジネスにどのように貢献しているかに関心があるのはなぜですか? 7</g>
 
-<g id="1">OSPO がビジネスにどのように貢献しているかに関心があるのはなぜですか? 7</g>
+<g id="1">私たちがOSPO のビジネス貢献に関心を持つ理由 7</g>
 
 > P83D48F7-tu5
 
-> <g id="1">Common threads in unique stories	7</g>
+> <g id="1">Common threads in unique stories	</g>
 
 > <g id="1">ユニークなストーリー 7 の共通スレッド</g>
 
-<g id="1">ユニークなストーリー 7 の共通スレッド</g>
+<g id="1">それぞれのストーリーに共通する＜thread: 筋道、思想＞ 7 </g>
 
 > P83D48F7-tu6
 
@@ -131,7 +131,7 @@
 
 > <g id="1">組織のプロフィールとオープンソースとの関係 8</g>
 
-<g id="1">組織のプロフィールとオープンソースとの関係 8</g>
+<g id="1">組織のプロフィールとオープンソースとの関係 8 </g>
 
 > P83D48F7-tu8
 
@@ -139,7 +139,7 @@
 
 > <g id="1">OSPO は組織のために何ができますか? 11</g>
 
-<g id="1">OSPO は組織のために何ができますか? 11</g>
+<g id="1">＜組織にとってのOSPOの価値、OSPOが組織のためにできること＞ 11</g>
 
 > P83D48F7-tu9
 
@@ -147,15 +147,15 @@
 
 > <g id="1">OSPO 11 を開始する理由</g>
 
-<g id="1">OSPO 11 を開始する理由</g>
+<g id="1">OSPOを＜立ち上げる、設立する、設置する＞理由 11</g>
 
 > P83D48F7-tu10
 
 > <g id="1">The OSPO journey	16</g>
 
-> <g id="1">OSPO の旅 16</g>
+> <g id="1">OSPO の旅</g>
 
-<g id="1">OSPO の旅 16</g>
+<g id="1">OSPO の「ジャーニー」 16</g>
 
 > P83D48F7-tu11
 
@@ -163,7 +163,7 @@
 
 > <g id="1">内部障害の克服: 文化と教育 16</g>
 
-<g id="1">内部障害の克服: 文化と教育 16</g>
+<g id="1">社内障壁の克服: 文化と教育 16</g>
 
 > P83D48F7-tu12
 
@@ -179,7 +179,7 @@
 
 > <g id="1">OSPO 18 のさまざまな帽子</g>
 
-<g id="1">OSPO 18 のさまざまな帽子</g>
+<g id="1">OSPOのさまざまな<役割, 立場, ポジション＞ 18</g>
 
 > P83D48F7-tu14
 
@@ -203,7 +203,7 @@
 
 > <g id="1">OSPO の持続可能性の確保 18</g>
 
-<g id="1">OSPO の持続可能性の確保 18</g>
+<g id="1">OSPO のサステナビリティの確保 18</g>
 
 > P83D48F7-tu17
 
@@ -211,7 +211,7 @@
 
 > <g id="1">OSPO の成功の測定 19</g>
 
-<g id="1">OSPO の成功の測定 19</g>
+<g id="1">OSPO の成果測定 19</g>
 
 > P83D48F7-tu18
 
@@ -219,7 +219,7 @@
 
 > <g id="1">一般的な OSPO KPI 19</g>
 
-<g id="1">一般的な OSPO KPI 19</g>
+<g id="1">OSPOにおける一般的なKPI 19</g>
 
 > P83D48F7-tu19
 
@@ -243,7 +243,7 @@
 
 > <g id="1">今後の予定は? 21</g>
 
-<g id="1">今後の予定は? 21</g>
+<g id="1">将来の＜予定は?、予測＞ 21</g>
 
 > P83D48F7-tu22
 
@@ -274,8 +274,10 @@
 > <g id="1">Open source software continues to transform how entire industries create and use software. Across industries, systems built to a large degree or even entirely from open source software components that communicate via open APIs are replacing proprietary and closed software stacks. Based on collaboration and joint development, open source software has become a fundamental means for driving innovation, fostering technology adoption, and openly sharing knowledge.</g>
 
 > <g id="1">オープンソース ソフトウェアは、業界全体でソフトウェアの作成方法と使用方法を変革し続けています。さまざまな業界で、オープン API を介して通信するオープン ソース ソフトウェア コンポーネントから大部分または完全に構築されたシステムが、独自のクローズド ソフトウェア スタックに取って代わりつつあります。コラボレーションと共同開発に基づいて、オープンソース ソフトウェアは、イノベーションを促進し、テクノロジーの採用を促進し、知識をオープンに共有するための基本的な手段になりました。</g>
+    
+    メモ：to a large degree: 大いに
 
-<g id="1">オープンソース ソフトウェアは、業界全体でソフトウェアの作成方法と使用方法を変革し続けています。さまざまな業界で、オープン API を介して通信するオープン ソース ソフトウェア コンポーネントから大部分または完全に構築されたシステムが、独自のクローズド ソフトウェア スタックに取って代わりつつあります。コラボレーションと共同開発に基づいて、オープンソース ソフトウェアは、イノベーションを促進し、テクノロジーの採用を促進し、知識をオープンに共有するための基本的な手段になりました。</g>
+<g id="1">オープンソース ソフトウェアは、業界全体でのソフトウェア開発方法および使用方法を＜変化し、変え＞続けています。さまざまな業界で、オープン API を介して通信するオープン ソース ソフトウェア コンポーネントから大部分または完全に構築されたシステムが、独自のクローズド ソフトウェア スタックに取って代わりつつあります。コラボレーションと共同開発に基づいて、オープンソース ソフトウェアは、イノベーションを促進し、テクノロジーの採用を促進し、知識をオープンに共有するための基本的な手段になりました。</g>
 
 > P58710E28-tu3
 
