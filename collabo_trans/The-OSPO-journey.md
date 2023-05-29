@@ -10,8 +10,6 @@
 
 <g id="1">OSPO の「ジャーニー」</g>
 
-
-
 > P58710E28-tu131
 
 > <g id="1">The first step for many OSPOs, before they can begin to address more strategic concerns, is what many OSPO leaders described as cleaning up the mess of open source, recovering from years of ad hoc approaches to consuming and contributing to open source. </g>
@@ -19,8 +17,6 @@
 > <g id="1">多くの OSPO にとって、より戦略的な懸念事項に対処する前の最初のステップは、多くの OSPO リーダーがオープンソースの混乱を一掃し、何年にもわたるその場しのぎのアプローチから回復すると説明したことです。オープンソースを消費し、貢献すること。 </g>
 
 <g id="1">多くの OSPO リーダーたちによれば、OSPO にとってより戦略的な問題に取り組もうとする前の段階で経験する最初のステップというのは、オープンソースを使うことやコントリビュートすることが「いきあたりばったり」になってるところからなんとか抜け出してオープンソースが煩雑になっているのをなんとか整理すること、なのだそうです。</g>
-
-
 
 > P58710E28-tu132
 
@@ -30,8 +26,6 @@
 
 <g id="1">「私たちは、プロジェクトについて長期的プランとかちゃんとしたオーナーシップもない状態なのに 10 年もそういうプロジェクトをパブリッシュしつづけてきたんですよ」と、 Spotify の Ploug は振り返ります。 今 Spotify の OSPO では Spotify 社内から生まれたプロジェクトをすべて調査し、プロジェクトのオーナーをはっきりさせ、さらにオーナーシップが個人ではなく、チームにアサインされていることを確認しています。プロジェクトをシャットダウンさせるかどうか決めるプロセスもあり、ここでは社内利用がないことの確認も求められています。 </g>
 
-
-
 > P58710E28-tu133
 
 > <g id="1">Other work that OSPOs often tackle initially is finite and can, at some point, be finished, such as the initial question about which licenses can or cannot be used. Usually, the OSPO can work with the legal team to figure out what is or is not acceptable, but once there is a decision, it doesn’t need revisiting and becomes a matter of communicating to the entire organization what licenses are acceptable in which scenarios. </g>
@@ -39,7 +33,6 @@
 > <g id="1">OSPO が最初に取り組むことが多いその他の作業は有限であり、どのライセンスを使用できるか、または使用できないかに関する最初の質問など、ある時点で完了する可能性があります。通常、OSPO は法務チームと協力して何が受け入れられ、何が受け入れられないかを判断できますが、一度決定が下されると、再検討する必要はなく、どのシナリオでどのライセンスが受け入れられるかを組織全体に伝えることが問題になります。 . </g>
 
 <g id="1">最初のフェーズで OSPO が取り組むことは限られていて、どこかのタイミングで確実に完了できる類のものです。たとえば、「どういったライセンスが使えて、どういったものが使えないのか？」といった話です。OSPO はリーガルチームと協力して何が受容できて、何ができないかを判断できるというのが普通で、そして一旦判断できたなら、その後はもう再検討不要なことになります。そうなると大事なのは、「どういったシナリオで、どういったライセンスが受け入れられないのか」という、組織全体に向けたコミュニケーションの話になってきます。 </g>
-
 
 > P58710E28-tu134
 
@@ -49,7 +42,6 @@
 
 <g id="1">では、社内のプロジェクトを整理し、オープンソースの使い方、コントリビューションのしかたについてフレームワークを開発してコンプライアンスも十分に対応したそのあと、組織は何をすべきなのでしょう? </g>
 
-
 > P58710E28-tu135
 
 > <x id="1"/><g id="2">Overcoming internal obstacles: Culture and education</g>
@@ -57,8 +49,6 @@
 > <x id="1"/><g id="2">内部障害の克服: 文化と教育</g>
 
 <x id="1"/><g id="2">組織の中での障壁を克服する：カルチャーと教育</g>
-
-
 
 > P58710E28-tu136
 
@@ -68,8 +58,6 @@
 
 <g id="1">OSPO がオープンソースの利用とオープンソースへのコントリビューションに関してポリシーを作ったあとの共通的な次のステップは、その「言葉」を社内へ広めていくことです。これは些末な話ではありません。特に数千人または数万人ものエンジニアたちがいる組織の中で多くの OSPO は、ほんの一握り程度の人数にすぎない、といったことを考えればそれが些末な話ではないことがよくわかります。 この、OSPO の「内部コミュニケーション」の役割は、OSPO を作ることになった最初のきっかけに起源をもちます。それは、オープンソースとの関わり方について寄せられる、ソフトウェアエンジニアたちからの多数の問い合わせです。 </g>
 
-
-
 > P58710E28-tu137
 
 > <g id="1">“When we are talking about contributing to open source software, in the beginning, the question we started with was, ‘are we even allowed to do that?’” said Schumacher, from DB Systel. People just did not know what parameters there were about using, and especially around contributing back to, open source. If one of the first-level goals of an OSPO is to figure out what those parameters are, the secondary goal is to make sure that there is a dissemination of knowledge throughout the organization. </g>
@@ -77,8 +65,6 @@
 > <g id="1">「私たちがオープンソース ソフトウェアへの貢献について話しているとき、最初に私たちが持ち始めた質問は、『それを行うことさえ許されているのでしょうか?』ということでした」と DB の Schumacher 氏は述べています。システル。人々は、オープンソースを使用すること、特にオープンソースに貢献することについて、どのようなパラメーターがあるかを知りませんでした. OSPO の第 1 レベルの目標の 1 つが、これらのパラメーターが何であるかを理解することである場合、第 2 の目標は、組織全体に知識が普及していることを確認することです。 </g>
 
 <g id="1">「最初、オープンソース ソフトウェアへのコントリビューションについて話していたとき、こんな疑問から始まったんです、『それって許可されてることなんだっけ？』って。」と DB Systel 社 Schumacher は言います。単純に、オープンソースを利用すること、特にオープンソースにコントリビュートすることについて、どういうパラメーターがあるのか、皆が知らなかったのです。 これらのパラメーターを理解することがOSPO の最初のゴールの 1 つがだとしたら、知識として組織全体へ浸透させることが次のゴールとなってきます。 </g>
-
-
 
 > P58710E28-tu138
 
@@ -96,8 +82,6 @@
 
 <g id="1">オープンソースとの関わり方についてエンジニアがしてくる質問を先取りしておくという話はそれとしてありますが、一方でそもそも人々のオープンソースに対する考え方が大きくシフトしてきているという実態があります。 「彼らのしてくる質問が、オープンソースを利用するべきかどうか、という話からオープンソースをどうやったら『戦略的に』実践できるのか、という話に変わってきたのです」、と Schumacher は言います。 「時間がたつと、たとえば外の会社とのコラボレーションにおいて、オープンソースでどうレバレッジできるか、といった戦略的な部分に検討が深まっている状況に気づきました」 </g>
 
-
-
 > P58710E28-tu140
 
 > <g id="1">Even though open source is everywhere, not all organizations have the culture around open source that they want, and opinions about open source are far from universally positive. Some people, from individual contributors to managers and executives, have had bad experiences with open source software or open source communities at some point in their careers, and convincing those people to embrace open source is part of the OSPO’s challenge. </g>
@@ -106,8 +90,6 @@
 
 <g id="1">オープンソースはあらゆるところに存在するものですが、組織のすべてでオープンソースをとりまくカルチャーを持っているわけではありませんし、むしろオープンソースに対しポジティブでない立ち位置を取る場合もあります。個人のコントリビューターをはじめとしてマネージャーやエグゼクティブに至る人たちの中に、自身のキャリアの中でオープンソース ソフトウェアやオープンソース コミュニティで「嫌な」経験をした人たちがいます。そうした人々にオープンソースのメリットを享受するよう説得するのは、OSPO の課題の 1 つでもあります。 </g>
 
-
-
 > P58710E28-tu141
 
 > <g id="1">“We want to create a cultural mind shift and grow the community around open source,” said Abernathy, at F5. This will be a major driver in helping the company play a larger role in the open source ecosystem. In a real sense, OSPOs seek to improve open source’s reputation within the organization just as much as the organization’s reputation within the open source ecosystem. </g>
@@ -115,9 +97,6 @@
 > <g id="1">「私たちは、文化的なマインド シフトを生み出し、オープン ソースを中心としたコミュニティを成長させたいと考えています」と F5 のAbernathy 氏は述べています。これは、同社がオープンソース エコシステムでより大きな役割を果たすための主要な原動力となるでしょう。本当の意味で、OSPO は、オープンソース エコシステム内での組織の評判と同じくらい、組織内でのオープン ソースの評判を向上させようとしています。 </g>
 
 <g id="1">「カルチャーのマインドシフトを起こし、オープンソースを中心としたコミュニティを育みたいですね」と F5 社 Abernathy は言います。こういった方向性が同社がオープンソースエコシステムでより大きな役割を担う上で大事な原動力となっていきます。実際のところ、OSPOという組織がオープンソースのエコシステムで会社のレピュテーションを上げるのと同じように、「組織内で」オープンソースのレピュテーションを上げる努力をしているのです。 </g>
-
-
-
 
 > P58710E28-tu142
 
@@ -135,7 +114,6 @@
 
 <g id="1">オープンソースの戦略的な重要性は、間違いなく企業や業種に依存します。 Futurewei のような会社にとって、同社の販売している「ブラックボックスな」ソリューションの代替になるようなオープンソースが会社の収益力を根本から脅かすものになります。 「オープンソースを技術的なディシジョンではなくて、ビジネスディシジョンとしてみっときにどう扱うか？という話なのです。」と、Xie は言います。</g>
 
-
 > P58710E28-tu144
 
 > <g id="1">In a similar vein, VMware’s Ambiel stated, “At the end of the day, what does VMware do? We sell software. So, our open source investments need to align with our business aspirations.” The OSPO is there to make sure that happens. </g>
@@ -152,4 +130,3 @@
 
 <g id="1">Spotify 社には一つ野望があるそうです。それは同社で成功した 2 つのオープンソース プロジェクトを別のビジネスユニットへとスピンアウトさせ、このプロジェクトをベースとした商用プロダクトをローンチし、プロジェクトをコストセンターからプロフィットセンターへと転換させるというものです。 Spotify では OSPO の役割の 1 つが、このように新しいビジネスユニットになりうる、新たなプロジェクトを特定したり立ち上げたりすることを支援し、それらが成功する確立を高めていくことなのです。 </g>
 
-<font color="red">【谷口ここまで】135分</font>
