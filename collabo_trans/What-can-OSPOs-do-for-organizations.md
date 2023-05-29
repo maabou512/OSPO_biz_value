@@ -397,38 +397,4 @@
 
 <g id="1">まさにこの問題が、O’Brien が Indeed で FOSS 貢献者基金を設立するきっかけとなったものです。これは、Indeed が依存するプロジェクトのメンテナーを財政的に支援する方法です。このプログラムの目標は、プロジェクトが最終的に放棄されるリスクを軽減する方法として、燃え尽き症候群のリスクが高いメンテナーをサポートすることです。</g>
 
----
-
-## 緑ボックスの追加和訳
-
-### Who starts the OSPOs?
-
-OSPO を開始するのは誰ですか？
-
-> While we associate open source with a grassroots effort from individual engineers, the overwhelming trend in the interviews was the support for OSPOs at the executive level. In the case of large technology companies, like VMware and Futurewei, the OSPO champion was the CEO. “The CEO realized, oh, open source is not just about technology,” said Xie, from Futurewei. “It is about business. So they had open source moved into the Chief Strategy Office, which is where we’re now.”
-
-私たちはオープンソースを個々のエンジニアによる草の根の取り組みと結びつけていますが、インタビューでの圧倒的な傾向は、エグゼクティブレベルでの OSPO の支持でした。VMware や Futurewei などの大規模なテクノロジー企業の場合、OSPO の支持者は CEO でした。「オープンソースはテクノロジーだけではない、と CEO が気づいた」と Futurewei の Xie 氏は述べています。「ビジネスの話です。だから、彼らはオープンソースをチーフストラテジーオフィスに移し、それが私達の現在の場所です。」
-
-> Even in more grassroots initiatives, high-level buy-in is common. “I went to our former CTO with that idea myself,” said Vlatko, of Wayfair. “He was very supportive and said, ‘Yes, go ahead’ but also was very realistic in the sense of I cannot guide you, I’m not an expert. And I said, ‘That’s okay. I’m the expert.’”
-
-より草の根的なイニシアチブでさえ、高レベルの賛同が一般的です。 Wayfair の Vlatko 氏は次のように述べています。「私は以前の CTO にアイデアを持って行きましたが、彼は非常に協力的で、『いいね、進めてください』と言っただけでなく、『私はあなたを導くことはできないし、専門家でもない』と言い、非常に現実的でした。そして私は言いました。『大丈夫です。私が専門家です。』」
-
-> The obvious takeaway is that in many companies, a strategic relationship with open source is a high-level business concern, not just a technical problem that a group of engineers should solve.
-
-多くの企業にとって、オープンソースとの戦略的関係は、単にエンジニアのグループが解決すべき技術的な問題ではなく、ビジネス上の重要な問題であるということは明白です。
-
-### Who's in the OSPO?
-
-OSPO には誰がいますか?
-
-> The majority of OSPO leaders we spoke to had a software engineering background, but the work most of them do on a day-to-day basis is often not related to writing code. Instead, there are elements of internal communication, strategic planning, analysis, event planning, and collaboration with external organizations, which include open source communities, foundations, and other industry peers.
-
-私たちが話をした OSPO リーダーの大半は、ソフトウェアエンジニアリングのバックグラウンドを持っていましたが、彼らのほとんどが日常的に行っている仕事は、多くの場合コードを書くこととは関係ありません。代わりに、内部コミュニケーション、戦略的計画、分析、イベント計画や、オープンソースコミュニティ、財団、他の同業他社を含む外部組織とのコラボレーションなどの要素があります。
-
-> In most cases, OSPO team members, and especially OSPO leaders, were senior engineers or at the management level. In companies with very structured salary bands, the OSPO leadership and team members would be toward the top of the salary ladder.
-
-ほとんどの場合、OSPO のチームメンバー、特に OSPO のリーダーは、シニアエンジニアまたは管理職レベルでした。非常に構造化された給与帯を持つ企業では、OSPO のリーダーシップとチームメンバーは給与の地位の頂点に位置します。
-
-> Given the importance of legal compliance for many organizations when the OSPO starts, it is notable that most OSPOs had access to legal expertise, either inside or outside the OSPO. However, none of the interviewees felt that there should be an expansion of the role of legal or that they needed additional legal expertise.
-
-OSPO 発足時の多くの組織にとって法令順守の重要性を考えると、ほとんどの OSPO が OSPO の内部または外部の法律専門家にアクセスできたことは注目に値します。しかし、法務の役割を拡大する必要がある、または追加の法律専門知識が必要であると感じたインタビュー回答者はいませんでした。
+### 緑ボックスは(https://hackmd.io/5aiBtNtLSXyLMNUaawgfig)に移動
