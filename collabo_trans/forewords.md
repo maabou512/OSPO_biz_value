@@ -65,9 +65,9 @@
 
 > <g id="1">With forewords by Georg Kunz, Open Source Manager, <g id="2">Ericsson,</g> <x id="3"/>Leslie Hawthorn, Sr. Manager, <g id="4">Red Hat OSPO </g>and<g id="5"> <x id="6"/></g>Kimberly Craven, Sr. Director, <g id="7">Red Hat OSPO, Office of the CTO</g></g>
 
-<g id="1">Georg Kunz (オープン ソース マネージャー)、<g id="2">Ericsson</g>、Leslie Hawthorn (シニア マネージャー) による序文付き、 <g id="4">Red Hat OSPO </g>および<g id="5"> <x id="6"/></g>Kimberly Craven、シニア ディレクター、<g id="7">Red Hat OSPO、CTO オフィス</g></g>
+> <g id="1">Georg Kunz (オープン ソース マネージャー)、<g id="2">Ericsson</g>、Leslie Hawthorn (シニア マネージャー) による序文付き、 <g id="4">Red Hat OSPO </g>および<g id="5"> <x id="6"/></g>Kimberly Craven、シニア ディレクター、<g id="7">Red Hat OSPO、CTO オフィス</g></g>
 
-<g id="1">Georg Kunz (オープン ソース マネージャー)、<g id="2">Ericsson</g>、Leslie Hawthorn (シニア マネージャー) による序文付き、 <g id="4">Red Hat OSPO </g>および<g id="5"> <x id="6"/></g>Kimberly Craven、シニア ディレクター、<g id="7">Red Hat OSPO、CTO オフィス</g></g>
+<g id="1">Georg Kunz (オープン ソース マネージャー)、<g id="2">Ericsson</g>、<x id="3"/>Leslie Hawthorn (シニア マネージャー) による序文付き、 <g id="4">Red Hat OSPO </g>および<g id="5"> <x id="6"/></g>Kimberly Craven、シニア ディレクター、<g id="7">Red Hat OSPO、CTO オフィス</g></g>
 
 > P462D85A6-tu1
 
