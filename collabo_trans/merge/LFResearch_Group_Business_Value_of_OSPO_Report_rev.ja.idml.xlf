@@ -1,0 +1,1013 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:okp="okapi-framework:xliff-extensions" xmlns:its="http://www.w3.org/2005/11/its" xmlns:itsxlf="http://www.w3.org/ns/its-xliff/" its:version="2.0">
+<file original="Stories/Story_u1b279.xml" source-language="en" target-language="ja" datatype="xml" okp:inputEncoding="UTF-8">
+<body>
+</body>
+</file>
+<file original="Stories/Story_u24fa.xml" source-language="en" target-language="ja" datatype="xml" okp:inputEncoding="UTF-8">
+<body>
+<trans-unit id="P70123D5-tu1" xml:space="preserve">
+<source xml:lang="en"><g id="1">The Business Value of the OSPO</g></source>
+<target xml:lang="ja" state="translated"><g id="1">OSPO のビジネス価値</g></target>
+</trans-unit>
+</body>
+</file>
+<file original="Stories/Story_u24e3.xml" source-language="en" target-language="ja" datatype="xml" okp:inputEncoding="UTF-8">
+<body>
+<trans-unit id="P2C41208-tu1" xml:space="preserve">
+<source xml:lang="en"><g id="1"><x id="2"/></g></source>
+<target xml:lang="ja" state="translated"><g id="1"><x id="2"/></g></target>
+</trans-unit>
+</body>
+</file>
+<file original="Stories/Story_u2216.xml" source-language="en" target-language="ja" datatype="xml" okp:inputEncoding="UTF-8">
+<body>
+<trans-unit id="P4065E1BD-tu1" xml:space="preserve">
+<source xml:lang="en"><g id="1">The Business Value of the OSPO</g></source>
+<target xml:lang="ja" state="translated"><g id="1">OSPO のビジネス価値</g></target>
+</trans-unit>
+<trans-unit id="P4065E1BD-tu2" xml:space="preserve">
+<source xml:lang="en"><g id="1">An Exploration of Why Organizations Create, Sustain, and Expand Open Source Program Offices (OSPOs)</g></source>
+<target xml:lang="ja" state="translated"><g id="1">組織がオープンソース プログラム オフィス (OSPO) を設立、維持、拡大する理由の調査</g></target>
+</trans-unit>
+<trans-unit id="P4065E1BD-tu3" xml:space="preserve">
+<source xml:lang="en"><g id="1">MARCH 2023</g></source>
+<target xml:lang="ja" state="translated"><g id="1">2023 年 3 月</g></target>
+</trans-unit>
+<trans-unit id="P4065E1BD-tu4" xml:space="preserve">
+<source xml:lang="en"><g id="1">Emily Omier, Positioning &amp; Messaging Consultant, <g id="2">Emily Omier Consulting<x id="3"/></g></g><g id="4">Chris Aniszczyk, CTO, <g id="5">Cloud Native Computing Foundation</g></g></source>
+<target xml:lang="ja" state="translated"><g id="1">Emily Omier、ポジショニング&amp;メッセージング コンサルタント、<g id="2">Emily Omier Consulting<x id="3"/></g></g><g id="4">Chris Aniszczyk、CTO、<g id="5">Cloud Native Computing Foundation</g></g></target>
+</trans-unit>
+<trans-unit id="P4065E1BD-tu5" xml:space="preserve">
+<source xml:lang="en"><g id="1">Ana Jiménez Santamaría, OSPO Program Manager, <g id="2">TODO Group</g></g></source>
+<target xml:lang="ja" state="translated"><g id="1">Ana Jiménez Santamaría、OSPO プログラム マネージャー、<g id="2">TODO グループ</g></g></target>
+</trans-unit>
+<trans-unit id="P4065E1BD-tu6" xml:space="preserve">
+<source xml:lang="en"><g id="1">With forewords by Georg Kunz, Open Source Manager, <g id="2">Ericsson,</g> <x id="3"/>Leslie Hawthorn, Sr. Manager, <g id="4">Red Hat OSPO </g>and<g id="5"> <x id="6"/></g>Kimberly Craven, Sr. Director, <g id="7">Red Hat OSPO, Office of the CTO</g></g></source>
+<target xml:lang="ja" state="translated"><g id="1">Georg Kunz (オープン ソース マネージャー)、<g id="2">Ericsson</g>、<x id="3"/>Leslie Hawthorn (シニア マネージャー) による序文付き、 <g id="4">Red Hat OSPO </g>および<g id="5"> <x id="6"/></g>Kimberly Craven、シニア ディレクター、<g id="7">Red Hat OSPO、CTO オフィス</g></g></target>
+</trans-unit>
+</body>
+</file>
+<file original="Stories/Story_u223a.xml" source-language="en" target-language="ja" datatype="xml" okp:inputEncoding="UTF-8">
+<body>
+<trans-unit id="P462D85A6-tu1" xml:space="preserve">
+<source xml:lang="en"><g id="1">In partnership with:</g></source>
+<target xml:lang="ja" state="translated"><g id="1">提携:</g></target>
+</trans-unit>
+</body>
+</file>
+<file original="Stories/Story_u16b.xml" source-language="en" target-language="ja" datatype="xml" okp:inputEncoding="UTF-8">
+<body>
+<trans-unit id="P83D48F7-tu1" xml:space="preserve">
+<source xml:lang="en"><g id="1">Contents</g></source>
+<target xml:lang="ja" state="translated"><g id="1">目次</g></target>
+</trans-unit>
+<trans-unit id="P83D48F7-tu2" xml:space="preserve">
+<source xml:lang="en"><g id="1">Forewords 3</g></source>
+<target xml:lang="ja" state="translated"><g id="1">序文 3</g></target>
+</trans-unit>
+<trans-unit id="P83D48F7-tu3" xml:space="preserve">
+<source xml:lang="en"><g id="1">Introduction 7</g></source>
+<target xml:lang="ja" state="translated"><g id="1">はじめに 7</g></target>
+</trans-unit>
+<trans-unit id="P83D48F7-tu4" xml:space="preserve">
+<source xml:lang="en"><g id="1">Why do we care about how OSPOs contribute to the business? 7</g></source>
+<target xml:lang="ja" state="translated"><g id="1">私たちがOSPO のビジネス貢献に関心を持つ理由 7</g></target>
+</trans-unit>
+<trans-unit id="P83D48F7-tu5" xml:space="preserve">
+<source xml:lang="en"><g id="1">Common threads in unique stories </g></source>
+<target xml:lang="ja" state="translated"><g id="1">それぞれのストーリーに共通する＜thread: 筋道、思想＞ 7 </g></target>
+</trans-unit>
+<trans-unit id="P83D48F7-tu6" xml:space="preserve">
+<source xml:lang="en"><g id="1">Methodology 8</g></source>
+<target xml:lang="ja" state="translated"><g id="1">方法論 8</g></target>
+</trans-unit>
+<trans-unit id="P83D48F7-tu7" xml:space="preserve">
+<source xml:lang="en"><g id="1">Organization profiles and the relationship with open source 8</g></source>
+<target xml:lang="ja" state="translated"><g id="1">組織のプロフィールとオープンソースとの関係 8 </g></target>
+</trans-unit>
+<trans-unit id="P83D48F7-tu8" xml:space="preserve">
+<source xml:lang="en"><g id="1">What can OSPOs do for organizations? 11</g></source>
+<target xml:lang="ja" state="translated"><g id="1">＜組織にとってのOSPOの価値、OSPOが組織のためにできること＞ 11</g></target>
+</trans-unit>
+<trans-unit id="P83D48F7-tu9" xml:space="preserve">
+<source xml:lang="en"><g id="1">The reasons behind starting an OSPO 11</g></source>
+<target xml:lang="ja" state="translated"><g id="1">OSPOを＜立ち上げる、設立する、設置する＞理由 11</g></target>
+</trans-unit>
+<trans-unit id="P83D48F7-tu10" xml:space="preserve">
+<source xml:lang="en"><g id="1">The OSPO journey 16</g></source>
+<target xml:lang="ja" state="translated"><g id="1">OSPO の「ジャーニー」 16</g></target>
+</trans-unit>
+<trans-unit id="P83D48F7-tu11" xml:space="preserve">
+<source xml:lang="en"><g id="1">Overcoming internal obstacles: Culture and education 16</g></source>
+<target xml:lang="ja" state="translated"><g id="1">社内障壁の克服: 文化と教育 16</g></target>
+</trans-unit>
+<trans-unit id="P83D48F7-tu12" xml:space="preserve">
+<source xml:lang="en"><g id="1">A strategic relationship with open source 17</g></source>
+<target xml:lang="ja" state="translated"><g id="1">オープンソースとの戦略的関係 17</g></target>
+</trans-unit>
+<trans-unit id="P83D48F7-tu13" xml:space="preserve">
+<source xml:lang="en"><g id="1">The different hats of an OSPO 18</g></source>
+<target xml:lang="ja" state="translated"><g id="1">OSPOのさまざまな＜役割, 立場, ポジション＞ 18</g></target>
+</trans-unit>
+<trans-unit id="P83D48F7-tu14" xml:space="preserve">
+<source xml:lang="en"><g id="1">The Counselor 18</g></source>
+<target xml:lang="ja" state="translated"><g id="1">カウンセラー 18</g></target>
+</trans-unit>
+<trans-unit id="P83D48F7-tu15" xml:space="preserve">
+<source xml:lang="en"><g id="1">The Facilitator 18</g></source>
+<target xml:lang="ja" state="translated"><g id="1">ファシリテーター 18</g></target>
+</trans-unit>
+<trans-unit id="P83D48F7-tu16" xml:space="preserve">
+<source xml:lang="en"><g id="1">Ensuring OSPO sustainability 18</g></source>
+<target xml:lang="ja" state="translated"><g id="1">OSPO のサステナビリティの確保 18</g></target>
+</trans-unit>
+<trans-unit id="P83D48F7-tu17" xml:space="preserve">
+<source xml:lang="en"><g id="1">Measuring an OSPO’s success 19</g></source>
+<target xml:lang="ja" state="translated"><g id="1">OSPO の成果測定 19</g></target>
+</trans-unit>
+<trans-unit id="P83D48F7-tu18" xml:space="preserve">
+<source xml:lang="en"><g id="1">Common OSPO KPIs 19</g></source>
+<target xml:lang="ja" state="translated"><g id="1">OSPOにおける一般的なKPI 19</g></target>
+</trans-unit>
+<trans-unit id="P83D48F7-tu19" xml:space="preserve">
+<source xml:lang="en"><g id="1">The KPI search 20</g></source>
+<target xml:lang="ja" state="translated"><g id="1">KPI 検索 20</g></target>
+</trans-unit>
+<trans-unit id="P83D48F7-tu20" xml:space="preserve">
+<source xml:lang="en"><g id="1">Conclusion 21</g></source>
+<target xml:lang="ja" state="translated"><g id="1">結論 21</g></target>
+</trans-unit>
+<trans-unit id="P83D48F7-tu21" xml:space="preserve">
+<source xml:lang="en"><g id="1">What’s coming in the future? 21</g></source>
+<target xml:lang="ja" state="translated"><g id="1">将来の＜予定は?、予測＞ 21</g></target>
+</trans-unit>
+<trans-unit id="P83D48F7-tu22" xml:space="preserve">
+<source xml:lang="en"><g id="1">Future research 21</g></source>
+<target xml:lang="ja" state="translated"><g id="1">将来の研究 21</g></target>
+</trans-unit>
+<trans-unit id="P83D48F7-tu23" xml:space="preserve">
+<source xml:lang="en"><g id="1">About the authors 22</g></source>
+<target xml:lang="ja" state="translated"><g id="1">著者について 22</g></target>
+</trans-unit>
+</body>
+</file>
+<file original="Stories/Story_u1eb.xml" source-language="en" target-language="ja" datatype="xml" okp:inputEncoding="UTF-8">
+<body>
+<trans-unit id="P58710E28-tu1" xml:space="preserve">
+<source xml:lang="en"><x id="1"/><g id="2">Forewords</g></source>
+<target xml:lang="ja" state="translated"><x id="1"/><g id="2">序文</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu2" xml:space="preserve">
+<source xml:lang="en"><g id="1">Open source software continues to transform how entire industries create and use software. Across industries, systems built to a large degree or even entirely from open source software components that communicate via open APIs are replacing proprietary and closed software stacks. Based on collaboration and joint development, open source software has become a fundamental means for driving innovation, fostering technology adoption, and openly sharing knowledge.</g></source>
+<target xml:lang="ja" state="translated"><g id="1">オープンソース ソフトウェアは、業界全体でのソフトウェア開発方法および使用方法を＜変化し、変え＞続けています。さまざまな業界で、オープン API を介して通信するオープン ソース ソフトウェア コンポーネントから大部分または完全に構築されたシステムが、プロプラエタリかつクローズドなソフトウェア スタックに取って代わりつつあります。コラボレーションと共同開発に基づいて、オープンソース ソフトウェアは、イノベーションを促進し、テクノロジーの採用を促進し、知識をオープンに共有するための基本的な手段になりました。</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu3" xml:space="preserve">
+<source xml:lang="en"><g id="1">While the high-level advantages of open source software are undeniable, it is unfortunately far from simple and straightforward for organizations to leverage those in practice. As the usage of open source software in organizations proliferates and matures, many realize the need for establishing a structured approach to working with open source software. Initially, this need typically emerges from license compliance concerns, but it quickly grows way beyond compliance alone, eventually encompassing business strategy aspects as well.</g></source>
+<target xml:lang="ja" state="translated"><g id="1">オープンソース ソフトウェアのハイレベルな利点は否定できませんが、残念ながら、組織がそれらを実際に活用することは簡単ではありません。組織内でのオープン ソース ソフトウェアの使用が急増し、成熟するにつれて、多くの人が、オープン ソース ソフトウェアを＜活用する・使いこなす＞ための構造化されたアプローチを確立する必要性を認識しています。当初、この必要性は通常、ライセンス コンプライアンスの問題から生じますが、コンプライアンスだけを超えて急速に拡大し、最終的にはビジネス戦略の側面も含めます。</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu4" xml:space="preserve">
+<source xml:lang="en"><g id="1">This report compiles the results of a survey among open source advocates from Open Source Program Offices (OSPOs) across various companies and universities. It provides a broad insight into the motivation behind forming OSPOs and the concrete business value of OSPOs to their respective organizations. </g></source>
+<target xml:lang="ja" state="translated"><g id="1">このレポートは、さまざまな企業や大学のオープン ソース プログラム オフィス (OSPO) のオープン ソース支持者に対する調査結果をまとめたものです。それは、OSPO を形成する背後にあるモチベーションと、それぞれの組織に対する OSPO の具体的なビジネス価値について幅広い洞察を提供します。 </g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu5" xml:space="preserve">
+<source xml:lang="en"><g id="1">It turns out that, just like open source software itself, OSPOs come in all sorts of shapes and forms. However, irrespective of the concrete implementation of an OSPO, the survey shows that across organizations, the key business value of OSPOs converges toward the same fundamental goals: to establish a framework for an organization’s way of working with open source software and to ensure that open source software is leveraged strategically and well aligned with an organization’s business goals. An OSPO’s responsibilities thereby range from formalizing processes and transforming an organization’s culture to guiding the creation and execution of a long-term open source strategy.</g></source>
+<target xml:lang="ja" state="translated"><g id="1">オープン ソース ソフトウェア自体と同様に、OSPO にはさまざまな形や形態があることがわかりました。ただし、OSPO の具体的な実装に関係なく、この調査は、OSPO の主要なビジネス価値が、組織全体で同じ＜基本的な？＞目標に向かっていることを示しています: 組織におけるオープンソース ソフトウェア活用方法のフレームワークを確立し、オープンソース ソフトウェアが戦略的に活用され、組織のビジネス目標ときちんと＜合致、マッチ＞していることを確認します。したがって、OSPO の責任は、プロセスの形式化と組織の文化の変革から、長期的なオープンソース戦略の作成と実行の指導にまで及ぶ、ということになります。</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu6" xml:space="preserve">
+<source xml:lang="en"><g id="1">Building on the core principles of open source software—collaboration and knowledge sharing—the contributors to this report aim to provide a helpful source of information. It targets both open source champions in organizations who are currently on the journey of establishing an OSPO as well as open source leaders of existing OSPOs, enabling them to clearly define, measure, and communicate the business value of an OSPO.</g></source>
+<target xml:lang="ja" state="translated"><g id="1">オープン ソース ソフトウェアの基本原則 ー コラボレーションと知識の共有 ー に基づいて、このレポートの寄稿者は有益な情報源を提供することを目指しています。このレポートは、現在 OSPO を確立しようとしている組織のオープンソース 推進リーダーおよび、既存の OSPO のオープンソース リーダーの両方を対象としており、OSPO のビジネス価値を明確に定義、測定、伝達できることを狙いとしています。</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu7" xml:space="preserve">
+<source xml:lang="en"><g id="1">Georg Kunz</g></source>
+<target xml:lang="ja" state="translated"><g id="1">ゲオルク・クンツ</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu8" xml:space="preserve">
+<source xml:lang="en"><g id="1">Open Source Manager, <g id="2">Ericsson</g> </g></source>
+<target xml:lang="ja" state="translated"><g id="1">オープン ソース マネージャー、<g id="2">エリクソン</g> </g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu10" xml:space="preserve">
+<source xml:lang="en"><g id="1">As open source software has achieved ubiquity in the technology arena, more organizations are realizing the benefits of working with open source projects and the communities that build them. To harness this strategic potential of open source, direct investment into engaging with project communities is no longer a nice to have but a requirement. OSPOs, once largely extant only at large technology-focused firms, have proliferated across industries as a locus for starting, standardizing, and scaling an organization’s approach to open source.</g></source>
+<target xml:lang="ja" state="translated"><g id="1">オープンソース ソフトウェアがテクノロジーの分野で普及するにつれて、オープンソース プロジェクトおよびオープンソースコミュニティと連携することのメリットを認識する組織が増えています。このようなオープンソースの戦略的なポテンシャルを活用するために、プロジェクト コミュニティとの関わりに直接投資することは、もはや「あれば良い」どころではなく必要条件と言えます。 OSPO は、かつて大規模なテクノロジ重視の企業＜「IT企業」あるいは「テクノロジ重視の大企業」と読み替えても可？＞にのみ存在していましたが、組織のオープン ソースへのアプローチを開始、標準化、および拡大するための拠点として、業界全体で急増しています。</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu11" xml:space="preserve">
+<source xml:lang="en"><g id="1">In just the past five years, we have seen OSPOs crop up in the fields of automotive, entertainment, financial services, manufacturing, and even within academia and government bodies. Having an OSPO and accompanying dedicated resources to focus a company’s open source strategy creates a framework for harnessing the best possible outcomes for all players involved. Organizations have a clearer view of the software landscape upon which their businesses depend, maintainers of key software projects have a more direct line into organizations using their works, and external would-be collaborators have a welcoming and well-understood entry point to negotiating with the business.</g></source>
+<target xml:lang="ja" state="translated"><g id="1">過去わずか 5 年間で、自動車、エンターテイメント、金融サービス、製造、さらには学界や政府機関の分野で OSPO が登場するのを見てきました。企業のオープンソース戦略に焦点を当てた OSPO およびそのための人材を用意することで、すべての関係者にとって可能な限り最高の成果を出すためのフレームワークが作成されます。組織は、自社のビジネスがどのようなソフトウェアによって成り立っているかといった状況をより明確に把握することができ、また、主要なオープンソースソフトウェア プロジェクトのメンテナは、そのソフトウェアを使用している組織とより直接関与するようになり、↓↓↓ここは全くわからない↓↓↓ 外部のコラボレータになる可能性のある人は、歓迎され、十分に理解された企業と交渉するためのエントリー ポイントを持ちます。 </g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu12" xml:space="preserve">
+<source xml:lang="en"><g id="1">In this report, you will hear from OSPO leaders across a variety of sectors who will share their journey building open source consumption, contribution, and community engagement strategies for their businesses. You will also learn that each OSPO’s goals, success metrics, and approaches to engagement vary depending upon the drivers for establishing the OSPO, an organization’s maturity level with their open source practice, and how internal champions for the OSPO’s work support its growth and strategy. No OSPO is exactly like another, even as they share many common responsibilities.</g></source>
+<target xml:lang="ja" state="translated"><g id="1">このレポートでは、さまざまな分野の OSPO リーダーから、オープン ソースの消費、コントリビューション、およびコミュニティ エンゲージメント戦略をビジネスに構築するまでの「ジャーニー」を共有します。また、各 OSPO の目標、成功指標、エンゲージメントへのアプローチは、OSPO を確立するための推進要因、組織のオープンソース プラクティスに対する組織の成熟度レベル、および OSPO の仕事の内部チャンピオンがその成長と戦略をどのようにサポートしているかによって異なる、という学びもあります。さまざまな組織におけるOSPOは多くの共通したミッションを持っているとはいえ、OSPO はまったく同じではありません。</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu13" xml:space="preserve">
+<source xml:lang="en"><g id="1">Across our combined 30+ years of experience working in open source, the common thread we’ve seen that unites all OSPOs is their deep value in enabling collaboration and co-creation, whether that’s internally amongst different software teams or competitors working together in an upstream community. OSPOs are one of the few teams with a clear mandate for bi-directional advocacy, both within the organization— establishing norms for engaging with open source projects and championing open source best practices—and externally to the organization, ensuring that a company’s actions in a particular community both serve business goals and advance the technical state of the art for all players. </g></source>
+<target xml:lang="ja" state="translated"><g id="1">オープンソース業界での 30 年以上の経験の中で、すべての OSPOに共通しているのは、社内のチーム同士かアップストリーム コミュニティで協力する競合他社同士かに関係なく、コラボレーションや共創に大きな価値を見出しているという点です。OSPO は、組織内部での活動（オープンソース プロジェクトに関与し、オープンソースのベスト プラクティスを推進するためのルール作りを行う）と組織外部での活動（コミュニティ活動によって、ビジネス目標の達成および組織内外問わずすべてのエンジニアの技術力向上を担う）の両方に働きかけることのできる権限を持つ、という意味で数少ないチームの 1 つであると言えます。</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu14" xml:space="preserve">
+<source xml:lang="en"><g id="1">It is precisely because of the flexibility and bi-directional nature of the OSPO’s mission that these groups can be the foundational strategic lynchpin of a business’s technology approach. OSPOs have the freedom to explore and support innovations for the business and to define how this engagement will work to best satisfy the objectives of all players, from engineering talent to business executives to the open source project community itself. OSPOs act as the conduit and connective tissue between each group of stakeholders, diplomatically ensuring the interests of all parties are heard and considered, and negotiating for the best possible outcomes for all parties collaborating and co-creating together. </g></source>
+<target xml:lang="ja" state="translated"><g id="1">このように、OSPOが組織内外に柔軟に、また双方向に働きかけることができるという性質により、＜「これらのグループ」とはなんだ？OSPOのことなのか？＞は企業が技術戦略を立てるにあたって重要な要となりうるのです。OSPOは、事業成長のためのイノベーションを探求・サポートします。またそれだけでなく、エンジニアから経営幹部、オープンソース プロジェクト コミュニティ自体に至るまでのさまざまなステークホルダーのミッションを達成するために必要な活動を自由に定義することができます。OSPOは各ステークホルダー同士をつなぐ役割を果たし、また彼ら全員が協業・共創するにあたってwin-winの関係になるよう交渉を行います。 </g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu15" xml:space="preserve">
+<source xml:lang="en"><g id="1">It is this inward and outward-facing service mission that is the real magic of the OSPO. In this role, the successful OSPO acts as a diplomat for its organization in the wider world, charged with representing the needs of the business to the community and the community’s needs to the business. OSPOs have a unique role to play as stewards of industry-wide best practices, a locus of collaboration and co-creation, and a conduit for change agency as their company evolves in the ever-changing market landscape.</g></source>
+<target xml:lang="ja" state="translated"><g id="1">このように、組織内外に貢献するミッションこそがOSPOの真の魅力＜「魔法」のほうがいいかな？＞なのです。このミッションを成功に導くことができているOSPOは「コミュニティに対するビジネスのニーズ」と「ビジネスに対するコミュニティのニーズ」の両方を満たすよう、組織とコミュニティ、両方の看板を背負って広い世界で外交官のように活躍しています。OSPO は、①業界全体のベスト プラクティスの管理者、②コラボレーションと共創の拠点、③常に変化し続ける市場環境の中で企業を進化させる組織のパイプ役、というユニークな役割を果たしていると言えます。</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu16" xml:space="preserve">
+<source xml:lang="en"><g id="1">For those who have worked in the open source space for the past decades, or for readers who are early in their open source journeys, this whitepaper will present key areas of challenge and opportunity for the OSPO, shared from senior OSPO leaders across a variety of industries. Wherever you may be in your OSPO journey, from having one lone staffer who focuses on open source software license compliance to having a long-established open source strategy, we hope you will find this research valuable in examining the business value of OSPOs for your enterprise. As you examine the findings from open source leaders in a variety of industries, we hope you will see yourself in their journeys and be inspired. We look forward to your organization joining the community of OSPO practitioners contributing to the very foundations of open source practice: how we work together, what we do together, and how we all can derive mutual benefit. </g></source>
+<target xml:lang="ja" state="translated"><g id="1">過去数十年にわたってオープンソースの分野で働いてきた人、またはオープンソース「ジャーニー」に出たての読者に向けて、このホワイトペーパーでは、さまざまな業界において OSPOをけん引してきた先輩達から共有されたOSPOの課題や活用事例を紹介します。OSPO「ジャーニー」の途中のどの地点にいても、つまり、オープンソース ソフトウェア ライセンスのコンプライアンスに注力する立場の読者にとっても、あるいは長年確立されたオープンソース戦略に注力する立場の読者にとっても、この調査が貴社における OSPO のビジネス価値を検証するにあたってお役に立てれば幸いです。さまざまな業界のオープンソース リーダーの「ジャーニー」から気づきやインスピレーションを得られることを願っています。皆様の組織が OSPO を実際に実践している人達が集まるコミュニティに参加・貢献していただけることを楽しみにしています。 </g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu17" xml:space="preserve">
+<source xml:lang="en"><g id="1">Kimberly Craven</g></source>
+<target xml:lang="ja" state="translated"><g id="1">キンバリー・クレイヴン</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu18" xml:space="preserve">
+<source xml:lang="en"><g id="1">Sr. Director, <g id="2">Red Hat Open Source Program Office, <x id="3"/>Office of the CTO</g></g></source>
+<target xml:lang="ja" state="translated"><g id="1">シニアディレクター、<g id="2">Red Hat オープン ソース プログラム オフィス、<x id="3"/>CTO オフィス</g></g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu19" xml:space="preserve">
+<source xml:lang="en"><g id="1">Leslie Hawthorn</g></source>
+<target xml:lang="ja" state="translated"><g id="1">レスリー・ホーソーン</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu20" xml:space="preserve">
+<source xml:lang="en"><g id="1">Sr. Manager, <g id="2">Red Hat Open Source Program Office</g></g></source>
+<target xml:lang="ja" state="translated"><g id="1">シニアマネージャー、<g id="2">Red Hat オープン ソース プログラム オフィス</g></g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu30" xml:space="preserve">
+<source xml:lang="en"><g id="1">Introduction</g></source>
+<target xml:lang="ja" state="translated"><g id="1">はじめに</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu31" xml:space="preserve">
+<source xml:lang="en"><g id="1">Why do we care about how OSPOs contribute to the business? </g></source>
+<target xml:lang="ja" state="translated"><g id="1">なぜ、OSPO のビジネスへの貢献を重要視するのでしょうか？</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu34" xml:space="preserve">
+<source xml:lang="en"><g id="1">Why do we need to understand how OSPOs contribute to business goals? Whether it’s to advocate for creating a new OSPO, continue funding the OSPO, or even expand the OSPO, champions will ultimately have to connect the dots between the OSPO and business objectives. Whether in a for-profit business or not-for-profit university, no initiative that can’t be connected to outcomes that matter to the organization is likely to get greenlighted in the first place, nor survive if they can’t make a business case for their existence. </g></source>
+<target xml:lang="ja" state="translated"><g id="1">なぜ、OSPO がビジネスにどのように貢献するのかを理解する必要があるのでしょうか? 新たに OSPO の設立を提案するにしても、OSPO の予算を継続するにしても、あるいは OSPO を拡大するにしても、推進者は最終的に OSPO とビジネスを結びつけなければならないでしょう。営利企業であれ、非営利の大学であれ、組織にとって重要な成果と結びつかない構想はそもそも承認される可能性はなく、その存在を投資対効果として説明できなければ存続することもできない。</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu35" xml:space="preserve">
+<source xml:lang="en"><g id="1">“OSPOs as a whole need to be nimble, they need to be always ready for the next change,” said Suzanne Ambiel, director of open source marketing and strategy at VMware. “They need to adapt to the business because they’re serving the business as well as the community. As the business changes and morphs, the OSPO needs to do so as well … It’s really important that an OSPO be very connected to the business and the business strategy.” </g></source>
+<target xml:lang="ja" state="translated"><g id="1">「OSPO は全体として機敏である必要があり、常に次の変化に備えておく必要があります」と、VMware のオープンソースマーケティングおよび戦略担当ディレクターである Suzanne Ambiel は述べています。「彼らはビジネスだけでなく、コミュニティにも役立つので、ビジネスに適応する必要があります。ビジネスが変化、変容するにつれて、OSPO も同様に変化する必要があります。OSPO は、ビジネスやビジネス戦略と密接に結びついていることが本当に重要です。</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu36" xml:space="preserve">
+<source xml:lang="en"><g id="1">Though OSPOs are generally—but not always—located under the chief technology officer (CTO) and include many software engineers, interest in open source and how a company relates to open source is by no means limited to the engineering department. As we found in interviewing OSPO leaders for this report, the OSPO champions in many organizations were executives who saw both opportunities and, in some cases, potential threats from open source that their companies needed to address strategically. In doing this research, we hope to better understand why open source matters strategically to companies and how OSPOs help organizations proactively manage both the opportunities and threats to their particular business from open source. </g></source>
+<target xml:lang="ja" state="translated"><g id="1">OSPO は一般的に (必ずというわけではありませんが) 最高技術責任者 (CTO) の下に設置され、多くのソフトウェアエンジニアを擁していますが、オープンソースへの関心や企業とオープンソースとの関わりは、決して技術部門に限定されるものではありません。本レポートのために OSPO のリーダーにインタビューを行った結果、多くの組織における OSPO の推進者は、自社が戦略的に位置付ける必要があるオープンソースが、チャンスや場合によっては潜在的な脅威をもららすということの両方を認識している経営幹部であることがわかりました。この調査を通じて、なぜオープンソースが企業にとって戦略的に重要なのか、また、オープンソースがもたらすビジネス上のチャンスと脅威の両方を組織が積極的に管理するために OSPO がどのように役立っているのかをより深く理解することができると考えています。</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu37" xml:space="preserve">
+<source xml:lang="en"><g id="1">Hiro Fukuchi, senior alliance manager at Sony, gave an example of this executive interest: The OSPO organized a virtual event with an external expert that the company publicized, and many executives from both Japan and the United States attended. </g></source>
+<target xml:lang="ja" state="translated"><g id="1">SONY のシニアアライアンスマネージャーである Hiro Fukuchi (訳注: 福地弘行 さん) は、経営幹部の関心の高さを示す一例を挙げました： (ソニーの) OSPO が、外部の専門家を招いたバーチャルイベントを企画、広報したところ、日米双方から多くの経営幹部の参加がありました。</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu38" xml:space="preserve">
+<source xml:lang="en"><g id="1">Common threads in unique stories</g></source>
+<target xml:lang="ja" state="translated"><g id="1">ユニークな背景の中にある共通のテーマ</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu39" xml:space="preserve">
+<source xml:lang="en"><g id="1">One of the challenges in conducting this research is that while there are certainly common threads, not only is each OSPO unique, but the stories behind their creation in the first place and how they contribute to the organization’s larger goals are also unique. So while we can certainly make some generalizations about why OSPOs matter, who tends to champion them, and how the business value of the OSPO tends to evolve, no two organizations are really alike. </g></source>
+<target xml:lang="ja" state="translated"><g id="1">この調査を行う上での課題の一つは、確かにいくつかの共通点はあるという一方で、各組織の OSPO がユニークというだけではなく、そもそも OSPO を設置した背景や組織の大きな目標にどのように貢献しているかというストーリーもまたユニークであるということです。そのため、なぜ OSPO が重要なのか、誰が OSPO を推進する傾向があるのか、OSPO のビジネス価値がどのように進化していくのか、といった一般論を述べることはできても、同じような組織は2つとありません。</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu40" xml:space="preserve">
+<source xml:lang="en"><g id="1">“I was reading the Linux Foundation report that came out a couple of days ago, talking about the different OSPO structures,” said Christine Abernathy, senior director of open source at F5. “What I’ve learned is that they’re not all the same.” Just as OSPOs are all structured differently, there is a lot of diversity in their stated goals and the stories of how they came to be.<x id="2"/> </g></source>
+<target xml:lang="ja" state="translated"><g id="1">「数日前に出たさまざまな OSPO の構造について述べられた Linux Foundation のレポートを読みました。私が学んだことは、それらはすべてが同じではないということです。」と、F5 社 (訳註: 米国のネットワークテクノロジー企業。NGINXの開発元。) のオープンソース担当シニアディレクターである Christine Abernathy は述べています。OSPO がすべて異なる構造であるということと同様に、掲げられた目標や設立に至った経緯にも多くの多様性があります。<x id="2"/> </g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu41" xml:space="preserve">
+<source xml:lang="en"><x id="1"/><g id="2">Methodology</g></source>
+<target xml:lang="ja" state="translated"><x id="1"/><g id="2">方法論</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu42" xml:space="preserve">
+<source xml:lang="en"><g id="1">For this report, we interviewed 12 OSPO leaders from Europe, Asia, and North America in a variety of industries, including two public universities. All the OSPO leaders interviewed are active in the TODO group. Here are the questions we started with: </g></source>
+<target xml:lang="ja" state="translated"><g id="1">このレポートのために、2 つの公立大学を含む、さまざまな業界のヨーロッパ、アジア、北米の 12 人の OSPO リーダーにインタビューしました。インタビューした OSPO のリーダーは全員、TODO グループで活動しています。以下は、私たちが初めに実施した質問です: </g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu43" xml:space="preserve">
+<source xml:lang="en"><g id="1">How many team members were on the OSPO at launch? How many are there now?</g></source>
+<target xml:lang="ja" state="translated"><g id="1">発足時に OSPO に所属していたチームメンバーは何名でしたか? 現在所属しているのは何名ですか?</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu44" xml:space="preserve">
+<source xml:lang="en"><g id="1">What are the rough salary ranges for team members in the OSPO?</g></source>
+<target xml:lang="ja" state="translated"><g id="1">OSPO のチーム メンバーのおおよその給与範囲は?</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu45" xml:space="preserve">
+<source xml:lang="en"><g id="1">What background do OSPO team members come from <x id="2"/>(e.g., engineering, legal, marketing)?</g></source>
+<target xml:lang="ja" state="translated"><g id="1">OSPO チーム メンバーのバックグラウンドは? <x id="2"/> (エンジニアリング、法務、マーケティングなど)</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu46" xml:space="preserve">
+<source xml:lang="en"><g id="1">What’s your industry? </g></source>
+<target xml:lang="ja" state="translated"><g id="1">あなたの組織の業種・業界は?</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu47" xml:space="preserve">
+<source xml:lang="en"><g id="1">Where is the OSPO located in the organization (e.g., engineering, legal, marketing)?</g></source>
+<target xml:lang="ja" state="translated"><g id="1">OSPO は組織内のどこにありますか? (エンジニアリング、法務、マーケティングなど)</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu48" xml:space="preserve">
+<source xml:lang="en"><g id="1">Who was the initial champion for the OSPO? </g></source>
+<target xml:lang="ja" state="translated"><g id="1">OSPO の最初の推進者は? </g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu49" xml:space="preserve">
+<source xml:lang="en"><g id="1">How did the champion(s) sell the OSPO internally? What did they say the value of the OSPO would be? </g></source>
+<target xml:lang="ja" state="translated"><g id="1">推進者はどのようにして OSPO を社内に説得しましたか? 彼らは、OSPO の価値はどのようなものになると言いましたか? </g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu50" xml:space="preserve">
+<source xml:lang="en"><g id="1">What outcomes or KPIs were set for the OSPO when it was initially started? </g></source>
+<target xml:lang="ja" state="translated"><g id="1">OSPO の立ち上げの際、どのような成果または KPI が設定されましたか? </g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu51" xml:space="preserve">
+<source xml:lang="en"><g id="1">How has your understanding of the value of an OSPO, and the specific outcome you expect from your OSPO, changed over time?</g></source>
+<target xml:lang="ja" state="translated"><g id="1">OSPO の価値に対する理解や、OSPO に期待する具体的な成果は、時間の経過とともにどのように変化しましたか?</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu52" xml:space="preserve">
+<source xml:lang="en"><g id="1">Do you expect to get the same business value out of your OSPO in the next five years, or do you expect the value of the OSPO to change? </g></source>
+<target xml:lang="ja" state="translated"><g id="1">今後 5 年間、OSPO から同じビジネス価値を得られると思いますか、それとも OSPO の価値が変わると予想されますか? </g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu53" xml:space="preserve">
+<source xml:lang="en"><g id="1">What metrics / measurements were collected to track your progress toward those outcomes? How have these metrics changed over time?</g></source>
+<target xml:lang="ja" state="translated"><g id="1">OSPO の成果に対する進捗を測定するために、どのような指標/測定値が収集されましたか? これらの指標は、時間の経過とともにどのように変化してきましたか?</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu54" xml:space="preserve">
+<source xml:lang="en"><g id="1">What KPIs does your OSPO work toward now? How do you evaluate the OSPO’s success? </g></source>
+<target xml:lang="ja" state="translated"><g id="1">OSPO は現在、どのような KPI を目標に活動していますか? OSPO の成功をどのように評価していますか?</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu55" xml:space="preserve">
+<source xml:lang="en"><x id="1"/><g id="2">Organization profiles and the relationship with open source</g></source>
+<target xml:lang="ja" state="translated"><x id="1"/><g id="2">組織のプロフィールとオープンソースとの関係</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu56" xml:space="preserve">
+<source xml:lang="en"><g id="1">An organization’s relationship with open source, and therefore the value that it will get from an OSPO, does seem to depend on what type of company it is. Organizations that are fundamentally technology companies—whose revenue comes from selling hardware or software—experience both different opportunities and threats from open source than organizations whose revenue comes from selling furniture. </g></source>
+<target xml:lang="ja" state="translated"><g id="1">組織とオープンソースの関係、つまり OSPO から得られる価値は、その組織がどのようなタイプの企業であるかによって異なるようです。根本的にハードウェアやソフトウェアの販売から収益を得ているテクノロジー企業は、家具の販売から収益を得ている企業とは異なる、オープンソースによるチャンスと脅威の両方を経験することになります。</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu57" xml:space="preserve">
+<source xml:lang="en"><g id="1">Technology companies</g></source>
+<target xml:lang="ja" state="translated"><g id="1">テクノロジー企業</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu58" xml:space="preserve">
+<source xml:lang="en"><g id="1">For perhaps obvious reasons, companies whose revenue comes from selling hardware or software see the most direct relationship between open source and their business, and the OSPO is a critical part of managing that relationship. </g></source>
+<target xml:lang="ja" state="translated"><g id="1">おそらく明らかな理由から、ハードウェアまたはソフトウェアの販売から収益を得ている企業は、オープン ソースと自社のビジネスとの最も直接的な関係、および、OSPO はその関係を管理する上で重要な役割を果たしていることを認識しています。 </g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu59" xml:space="preserve">
+<source xml:lang="en"><g id="1">“Pat Gelsinger, our CEO at the time,” said Ambiel, referring to who was one of the OSPO champions at VMware. “He’s the one who really leaned in and said, ‘We need to build an OPSO, we need to act with strategic intent.’” </g></source>
+<target xml:lang="ja" state="translated"><g id="1">Ambiel は、VMware の OSPO 推進者の 1 人であった　Pat Gelsinger氏 (当時のCEO) について言及し、次のように述べました。 「彼は本当に身を乗り出して、『OPSO を設立する必要があり、戦略的意図を持って行動する必要がある』と話した人物です。」</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu60" xml:space="preserve">
+<source xml:lang="en"><g id="1">The need for technology companies to approach open source strategically is a core reason they all gave for forming an OSPO. And while there was often executive involvement, it would be wrong to characterize OSPOs as a purely top-down initiative or one pushed by management on an unwilling team of engineers. Often individual open source enthusiasts within the companies would push for a more formalized relationship with open source at the same time that executives pushed for a more strategic approach. Creating an OSPO was the obvious next step to meet both stakeholders’ needs. </g></source>
+<target xml:lang="ja" state="translated"><g id="1">テクノロジー企業がオープンソースに戦略的に取り組む必要があったというのは、OSPO を設立する中核的な理由のひとつです。また、多くの場合 経営陣が関与していますが、OSPOを純粋なトップダウンの取り組み、あるいはエンジニアのチームが押し付けられて渋々行ったものとみなすのは間違いです。多くの場合、オープンソースに熱心な社内の個々のメンバーたちは、経営陣がより戦略的なアプローチを推し進めると同時に、オープンソースとの関わりを企業としてより正式なものにするよう求めていました。言うまでもなく、OSPO の設立は両者のニーズを満たすための次のステップでした。</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu61" xml:space="preserve">
+<source xml:lang="en"><g id="1">Open source wasn’t new at any of the companies we spoke with. They had all been using open source internally for years—and often had even open sourced internal projects in the past—but they were becoming increasingly aware of how open source developers can be part of the adoption curve for their own products, and as a result, how important a decent reputation in the open source ecosystem can be. </g></source>
+<target xml:lang="ja" state="translated"><g id="1">私たちが話を聞いたどの企業においても、オープンソースは目新しいものではありませんでした。彼らは皆、すでに何年も社内でオープン ソースを使用しており、過去には社内プロジェクトをオープンソース化したこともありました。しかし一方で、オープンソースの開発者がいかに自社製品の採用判断を左右する理由の一部となり得るか、ひいては、オープンソースのエコシステムにおける高い評価がいかに重要であるかを、彼らはますます認識するようになっていました。</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu62" xml:space="preserve">
+<source xml:lang="en"><g id="1">“F5’s business has been moving from primarily hardware to software as a service,” said Abernathy. “A lot of the people who make purchasing decisions like to ‘try before they buy.’ These could be software developers who gravitate toward open source or even companies and governments who want to see your code in the open so that they can check the vulnerabilities.” So in the case of F5, open source is becoming important not just to how the company makes products but also to sales and marketing efforts. The OSPO is necessary to make sure F5 can leverage open source strategically and make informed decisions in situations where open source is relevant. </g></source>
+<target xml:lang="ja" state="translated"><g id="1">「F5 のビジネスは、主にハードウェアからサービスとしてのソフトウェアに移行しています」と Abernathy は述べています。「購入の意思決定をする人の多くは、"購入する前に試用したい" と考えています。オープンソースに惹かれるソフトウェア開発者かもしれませんし、脆弱性をチェックするためにオープンな状態でコードを確認したい企業や政府でさえあるかもしれません。」つまり、F5 の場合、オープンソースは、製品の作り方だけでなく、営業やマーケティング活動においても重要となってきているのです。F5 がオープンソースを戦略的に活用し、オープンソースが関与する状況で十分な情報に基づいた意思決定を行えるようにするために、OSPO が必要なのです。</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu63" xml:space="preserve">
+<source xml:lang="en"><g id="1">Abernathy, who previously worked in the open source office at Facebook (now Meta), outlined the difference between open source at a place like Facebook and a company like F5. “At Facebook, open source is important,” she said. “But not, like, in terms of revenue. They’re not building an open source product …. So here, it’s easier to start thinking about the ROI of open source in a more direct and meaningful way.” </g></source>
+<target xml:lang="ja" state="translated"><g id="1">以前、Facebook（現 Meta）のオープンソースオフィスで働いていた Abernathy は、Facebook のような場所と F5 のような会社でのでのオープンソースの違いについて概説しました。「Facebook でもオープンソースは重要です」と彼女は言いました。「しかし、収益面ではそうではありません。彼らはオープンソースの製品を作っているわけではないためです。だから、ここ (F5) では、オープンソースの投資利益率 (ROI) について、より直接的で有意義な方法で検討を始めることが容易なのです。」</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu64" xml:space="preserve">
+<source xml:lang="en"><g id="1">In the case of F5, a major trigger for creating the OSPO was the acquisition of open source company Nginx in 2019. The acquisition meant that the Nginx team both joined F5 and became another voice pushing for an OSPO, which also increased the strategic importance of open source. </g></source>
+<target xml:lang="ja" state="translated"><g id="1">F5 の場合、OSPO を設置する大きなきっかけとなったのは、2019 年にオープンソース企業の Nginx を買収したことでした。この買収により Nginx のチームが F5 に加わり、OSPO の設置を後押しするもう1つの声となったことで、オープンソースの戦略的重要性も高まりました。</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu65" xml:space="preserve">
+<source xml:lang="en"><g id="1">For companies like Aiven, whose core business is tightly related to an open source project or projects, a formalized and strategic approach to open source is perhaps even more critical—but something they still often lack without an OSPO. Josep Prat, open source engineering director at Aiven, said that even given the strategic importance of open source, there was always tension between a need to ship product features and a need to contribute back to open source. When there was an expectation for engineers to contribute to open source in addition to all their other responsibilities, open source contributions would always take a back seat. Because of this tension, Aiven’s executive team decided very early on that there should be a dedicated OSPO whose sole job was to contribute to open source and manage the relationship with the open source communities. </g></source>
+<target xml:lang="ja" state="translated"><g id="1">主要なビジネスがオープンソース プロジェクトと密接に関連している Aiven のような企業にとって、オープンソースへの正式で戦略的なアプローチは、おそらくさらに重要ですが、OSPO なくしてはまだ不十分となりがちです。Aiven のオープンソース エンジニアリング ディレクターである Josep Prat は、オープンソースの戦略的重要性を考慮しても、製品機能を出荷する必要性とオープンソースに貢献する必要性との間には常に緊張関係があると述べています。エンジニアが他のすべての責任に加えてオープン ソースに貢献することが期待されていたとき、オープン ソースへの貢献は常に後回しにされていました。この緊張関係の緩和のため、Aiven の経営陣は非常に早い段階で、オープンソースに貢献し、オープンソース コミュニティとの関係を管理することを唯一の仕事とする専門の OSPO を設置することを決定しました。 </g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu66" xml:space="preserve">
+<source xml:lang="en"><g id="1">In no way is it only open source companies or startups who feel like open source is of massive strategic importance. Chris Xie, head of open source strategy at Futurewei, the U.S.-based research and development arm of Huawei, stated that the company has been aware of both the threat and opportunities from open source for more than two decades, and the OSPO is part of how the company approaches both the threats and opportunities from open source. </g></source>
+<target xml:lang="ja" state="translated"><g id="1">オープンソースが戦略的に非常に重要であると感じているのは、オープンソース企業やスタートアップだけではありません。 Huawei の米国に本拠を置く研究開発部門である Futurewei のオープンソース戦略責任者である Chris Xie は、同社は 20 年以上にわたってオープンソースによる脅威と機会の両方を認識しており、OSPO は同社がオープンソースによる脅威と機会の両方にアプローチする方法の一つだと認識していると述べています。 </g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu67" xml:space="preserve">
+<source xml:lang="en"><g id="1">End user companies</g></source>
+<target xml:lang="ja" state="translated"><g id="1">エンドユーザー企業</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu68" xml:space="preserve">
+<source xml:lang="en"><g id="1">After the pure technology companies, there are the tech-forward companies who want to emulate many of what they see happening at pure technology companies, especially in terms of software development. These are companies that get their revenue from something other than selling hardware or software, and who wouldn’t say that building either is particularly core to their business. However, technology is critical to their business operations, and they share a desire to be perceived as a technology company as a means to attract top talent and create new revenue streams. One pattern that appears among these companies is that the OSPO and contributing to open source and releasing open source projects are all part of an effort to change the perception of the company as well as to improve the organization’s ability to deliver high-quality software, faster. </g></source>
+<target xml:lang="ja" state="translated"><g id="1">純粋なテクノロジー企業に続いて、特にソフトウェア開発に関して、純粋なテクノロジー企業で起こっていることの多くをエミュレートしたいと考えるテックフォワード企業があります。これらの企業は、ハードウェアやソフトウェアの販売以外から収益を得ている企業であり、そのどちらかを作り上げることがビジネスの特に中核であるとは言いがたいものです。しかし、テクノロジーは彼らの事業運営に欠かせないものであり、優秀な人材を惹きつけ、新たな収益源を生み出すために、テクノロジー企業として認識されたいという願いは共通しています。これらの企業で見られる一つのパターンは、OSPO 、オープンソースへの貢献、および、オープンソースプロジェクトのリリースがすべて、企業に対する認識を変えるための努力の一部であり、高品質のソフトウェアをより速く提供するための組織の能力を向上させるものであるということです。</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu69" xml:space="preserve">
+<source xml:lang="en"><g id="1">“Spotify has been using and creating open source since the very beginning, but at the same time, we didn’t approach it in a strategic way or consider how it created value for the company,” said Per Ploug, OSPO lead at Spotify. “It is critical for us that open source work is elevated to the same level as internal work, so we consider why we do it and how it brings value, so we ensure our engineers invest their time in projects which have impact.”</g></source>
+<target xml:lang="ja" state="translated"><g id="1">「Spotify は当初からオープン ソースを使用し、作り上げてきましたが、同時に、戦略的な方法でアプローチしたり、それが会社にどのように価値を生み出したかは考慮してきませんでした。 」と Spotify の OSPO のリーダーである Per Ploug は述べています。「オープンソースの仕事を社内の仕事と同じレベルに引き上げることは私たちにとって重要です。そのため、私たちはそれを行う理由とそれがどのように価値をもたらすかを検討し、エンジニアが影響のあるプロジェクトに時間を費やせるようにします。」</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu70" xml:space="preserve">
+<source xml:lang="en"><g id="1">In Spotify’s case, the most visible example of this new approach is Backstage, the company’s big bet on building a commercial offering on top of the successful open source project they donated to the CNCF in 2020. Spotify intends to make their investment into Backstage more self-sustainable and to ensure they stay engaged in the open source community long term. Right now, they have more than 40 people working on Backstage. We have very ambitious plans for Backstage, which include a commercial strategy that can both fund those ambitions and result in a better end product for everyone. The goal is to move open source from a cost center to a profit center.</g></source>
+<target xml:lang="ja" state="translated"><g id="1">Spotify の場合、この新しいアプローチの最も目に見える例は Backstage です。これは、同社が 2020 年に CNCF に寄付した成功したオープンソース プロジェクトの上に商用製品を構築するという大きな賭けです。 Spotify は、Backstage への投資をより自立的なものにし、オープンソース コミュニティに長期的に関与し続けることを保証するつもりです。現在、40 人以上のスタッフが Backstage に携わっています。 Backstage には非常に野心的な計画があります。この計画には、野心的に資金を提供し、すべての人により良い最終製品をもたらすことができる商業戦略が含まれます。目標は、オープン ソースをコスト センターからプロフィット センターに移行させることです。</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu71" xml:space="preserve">
+<source xml:lang="en"><g id="1">“Wayfair is a tech company, and it takes the continuous work of many technologists across numerous disciplines to support our operations and growth,” said Natali Vlatko, global lead, OSPO at Wayfair. “In chats with our former CTO, I stressed that the easiest way for us to genuinely and authentically live that mindset is to build technical products. The surefire way to do that is to build open source and invest back into the open source ecosystem.”</g></source>
+<target xml:lang="ja" state="translated"><g id="1">「Wayfair はテクノロジー企業であり、当社の事業と成長を支えるには、さまざまな分野にわたる多くの技術者の継続的な取り組みが必要です」と、Wayfair の OSPO のグローバル リードである Natali Vlatko は述べています。 「当社の前 CTO との対話の中で、その考え方を真に忠実に実践するための最も簡単な方法は、技術的な製品を構築することだと強調しました。そのための確実な方法は、オープンソースを構築し、オープンソース エコシステムに投資することです。」</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu72" xml:space="preserve">
+<source xml:lang="en"><g id="1">While becoming more tech-company-like is certainly a goal for these companies, it remains a means to an end. In some cases, the ends are clear, and it is often being able to hire the best talent as well as improve the quality of the engineering work in-house. Sometimes, though, even these companies start out believing that open source matters but are unable to articulate exactly why or how open source contributes to engineering or business objectives. The establishment of the OSPO helps them clarify how open source is already benefiting the company and determine how to get even more value from open source.</g></source>
+<target xml:lang="ja" state="translated"><g id="1">よりテクノロジー企業らしくなることは、これらの企業の目標であることは間違いありませんが、目的を達成するための手段であることに変わりはありません。場合によってはその目的が明確であり、優秀な人材を採用し、社内のエンジニアリング業務の質を向上させることであることも少なくありません。ただし、これらの企業でさえ、オープンソースが重要であると信じ始めているにもかかわらず、オープンソースがエンジニアリングやビジネスの目標に貢献する理由や方法を正確に説明できない場合があります。 OSPO の設立は、オープンソースがすでに会社にどのように利益をもたらしているかを明確にし、オープンソースからさらに多くの価値を得る方法を決定するのに役立ちます。</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu73" xml:space="preserve">
+<source xml:lang="en"><g id="1">“They had a couple of open source projects that didn’t go anywhere,” said Duane O’Brien, director of open source at Indeed, about what was going on at the company before he joined. No one thought they were massive successes. “I don’t think they had a clear picture of what success meant for themselves,” he said. </g></source>
+<target xml:lang="ja" state="translated"><g id="1">Indeed のオープンソース担当ディレクターである Duane O'Brien は、彼が Indeed に入社する前に同社で何が起こっていたのかについて次のように述べています。「彼らにはいくつかのオープンソースプロジェクトを持っていましたが、うまくいってませんでした。」誰もそれが大成功を収めたとは思っていませんでした。 「彼らは、自分たちにとって成功とは何なのか、明確なイメージを持っていなかったと思います」と彼は言いました。 </g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu74" xml:space="preserve">
+<source xml:lang="en"><g id="1">Universities</g></source>
+<target xml:lang="ja" state="translated"><g id="1">大学</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu75" xml:space="preserve">
+<source xml:lang="en"><g id="1">For universities, the value of open source and the related value of an OSPO to oversee the relationship between open source and researchers at the university is different from for-profit companies. However, they often see open source as a way to further the university’s mission—an opportunity that until very recently was largely missed. “They don’t really have a history of being engaged in open source,” said Carlos Maltzahn, director of the Center for Research in Open Source Software at the University of California Santa Cruz. As a matter of fact, he said, while there have been successful open source projects that have originated at a university, in many cases, it’s been a personal project of an individual student or researcher because most universities have little to no support for turning research products into high-impact open source contributions. That’s something he’d like to change and sees the OSPO as a way to support students and researchers who create open source projects and help more projects cross the chasm from a graduate student research project to something used in the wider ecosystem. </g></source>
+<target xml:lang="ja" state="translated"><g id="1">大学にとって、オープン ソースの価値と、大学のオープン ソースと研究者との関係を監視する OSPO の関連する価値は、営利企業とは異なります。しかし、彼らはオープンソースを大学の使命を果たす手段とみなすことが多く、ごく最近までこの機会をほとんど見逃されていました。カリフォルニア大学サンタクルーズ校のオープンソースソフトウェア研究センターの所長である Carlos Maltzahn は、「彼らはオープンソースに携わってきた歴史がありません」と述べています。実際のところ、大学発の成功したオープンソース プロジェクトはあるものの、多くの場合、それは個々の学生または研究者の個人的なプロジェクトであり、ほとんどの大学は研究成果を影響力のあるオープンソースプロジェクトにするためのサポートをほとんど、または、まったく提供していないためです。彼はそれを変えたいと考えており、OSPO は、オープンソース プロジェクトを作成する学生や研究者をサポートし、より多くのプロジェクトが大学院生の研究プロジェクトからより広いエコシステムで使用されるものへと、溝を越えられるよう支援する方法であると考えています。 </g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu76" xml:space="preserve">
+<source xml:lang="en"><g id="1">For Jesus Gonzalez-Barahona, professor at Universidad Rey Juan Carlos in Madrid and head of their open knowledge efforts, open source fits into the larger mission related to expanding access to knowledge. “In all of Europe, especially in Spain, universities are rediscovering this idea that we need to produce knowledge for society,” he said. Open source software, but also open access to research, is a way to fulfill this mission. </g></source>
+<target xml:lang="ja" state="translated"><g id="1">マドリッドのレイ フアン カルロス大学の教授であり、オープン ナレッジへの取り組みの責任者である Jesus Gonzalez-Barahona にとって、オープン ソースは知識へのアクセス拡大に関連するより大きな使命にフィットしています。 「ヨーロッパ全体、特にスペインでは、社会のために知識を生み出す必要があるというこの考えを大学が再認識されつつあります」と彼は言いました。オープンソース ソフトウェアだけでなく、研究へのオープン アクセスも、この使命を果たすための 1 つの方法なのです。 </g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu78" xml:space="preserve">
+<source xml:lang="en"><x id="1"/><g id="2">What can OSPOs do for organizations?</g></source>
+<target xml:lang="ja" state="translated"><x id="1"/><g id="2">OSPO は組織のために何ができますか?</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu79" xml:space="preserve">
+<source xml:lang="en"><x id="1"/><g id="2">The reasons behind starting an OSPO</g></source>
+<target xml:lang="ja" state="translated"><x id="1"/><g id="2">OSPO を開始する理由</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu80" xml:space="preserve">
+<source xml:lang="en"><g id="1">As we look at the value that an OSPO provides, there are two distinct phases. The first phase is the reason behind the OSPO’s creation. The second phase relates to the value that the organization sees as the OSPO matures. In this section, we will address the reasons organizations had for starting the OSPO in the first place and address how the value evolves in a later section. In nearly all cases, there were multiple reasons for starting an OSPO, just as there are multiple reasons for maintaining and expanding the OSPO as it matures. While there can be educational and social reasons for starting and maintaining an OSPO, this report focuses primarily on the business-related reasons behind having an OSPO, as we have focused the research primarily on for-profit organizations. </g></source>
+<target xml:lang="ja" state="translated"><g id="1">OSPO が提供する価値の観点から、2 つの異なる段階があります。第 1 段階は、OSPO の作成の背後にある理由です。第 2 段階は、OSPO が成熟するにつれて組織が認識する価値に関連しています。このセクションでは、組織が最初に OSPO を開始した理由について説明し、後のセクションで価値がどのように進化するかについて説明します。ほぼすべてのケースで、OSPO が成熟するにつれて維持および拡大する複数の理由があるのと同様に、OSPO を開始する複数の理由がありました。OSPO の開始と維持には教育的および社会的な理由が考えられますが、このレポートでは主に OSPO 設立の背景にあるビジネス関連の理由に焦点を当てています。私たちは主に営利団体に焦点を当てて調査してきたからです。</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu81" xml:space="preserve">
+<source xml:lang="en"><g id="1">Compliance</g></source>
+<target xml:lang="ja" state="translated"><g id="1">コンプライアンス</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu82" xml:space="preserve">
+<source xml:lang="en"><g id="1">The most fundamental reason that organizations start an OSPO is because they are aware that their engineers are using open source, but they don’t know if they’re complying with the projects’ licenses. “Open source is unavoidable,” said Cornelius Schumacher, open source steward at DB Systel, the digital partner of Deutsche Bahn. </g></source>
+<target xml:lang="ja" state="translated"><g id="1">組織が OSPO を開始する最も基本的な理由は、エンジニアがオープンソースを使用していることを認識しているが、プロジェクトのライセンスに準拠しているかどうかがわからないためです。ドイツ鉄道のデジタルパートナーである DB Systel のオープンソース管理者である Cornelius Schumacher 氏は、次のように述べています。</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu83" xml:space="preserve">
+<source xml:lang="en"><g id="1">“Open source is unavoidable” </g></source>
+<target xml:lang="ja" state="translated"><g id="1">「オープンソースは避けられない」</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu84" xml:space="preserve">
+<source xml:lang="en"><g id="1">Given this reality, DB Systel needed to make an organized, centralized effort to ensure that the company complied with open source license requirements as well as managed potential security issues. “Risk management was not the only reason [for creating the OSPO], but certainly an important part of the decision,” he said.</g></source>
+<target xml:lang="ja" state="translated"><g id="1">この現実を踏まえて、DB Systel は組織化された一元化された取り組みを行って、会社がオープンソースライセンスの要件に準拠し、潜在的なセキュリティ問題を管理していることを確認する必要がありました。「リスク管理は、[OSPO を作成する]唯一の理由ではありませんでしたが、確かに決定の重要な部分でした」と彼は言いました。</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu85" xml:space="preserve">
+<source xml:lang="en"><g id="1">Because new open source projects are being downloaded and used every day, especially in a large organization, the OSPO’s role is less about conducting a compliance audit and more about putting technology and processes in place to ensure developers are aware of which licenses are or are not acceptable so that it’s easier to conduct compliance audits when necessary. </g></source>
+<target xml:lang="ja" state="translated"><g id="1">特に大規模な組織では、新しいオープンソースプロジェクトが毎日ダウンロードされて使用されているため、OSPO の役割は、コンプライアンス監査を実施することよりも、必要に応じてコンプライアンス監査を実施しやすくするために、開発者が受け入れられるライセンスと受け入れられないライセンスを確実に認識できるようなテクノロジーとプロセスを導入することです。</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu86" xml:space="preserve">
+<source xml:lang="en"><g id="1">Building standardized processes around open source</g></source>
+<target xml:lang="ja" state="translated"><g id="1">オープンソースに関する標準化されたプロセスの構築</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu87" xml:space="preserve">
+<source xml:lang="en"><g id="1">Related to the compliance issue, there was often also a need to move from an ad hoc way of using open source projects to a more standardized process. “Right now we have too much sprawl across our open source dependencies,” Ploug said. Part of the rationale for creating the OSPO was to streamline those dependencies to avoid having multiple projects that accomplish the same things. </g></source>
+<target xml:lang="ja" state="translated"><g id="1">コンプライアンスの問題に関連して、オープンソースプロジェクトのアドホックな使用方法から、より標準化されたプロセスに移行する必要もしばしばありました。「現在、オープンソースの依存関係があまりにも広がっています」と Ploug 氏は言います。OSPO を作成する理由の 1 つは、これらの依存関係を合理化して、同じことを達成する複数のプロジェクトが存在しないようにすることでした。</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu88" xml:space="preserve">
+<source xml:lang="en"><g id="1">“<x id="2"/>Right now we have too <x id="3"/>much sprawl across our open source dependencies” </g></source>
+<target xml:lang="ja" state="translated"><g id="1">「<x id="2"/>現在、<x id="3"/>オープンソースの依存関係があまりにも広がっています」</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu89" xml:space="preserve">
+<source xml:lang="en"><g id="1">This would make many aspects of open source management easier, from license compliance auditing to security to investing strategically in open source projects that are important to the company’s core process. </g></source>
+<target xml:lang="ja" state="translated"><g id="1">これにより、ライセンスのコンプライアンス監査からセキュリティ、企業のコアプロセスにとって重要なオープンソースプロジェクトへの戦略的投資まで、オープンソース管理の多くの側面が容易になります。</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu90" xml:space="preserve">
+<source xml:lang="en"><g id="1">In addition to building standardized processes around how engineers can use open source, there’s also a need to create standard processes about how engineers can contribute to open source </g></source>
+<target xml:lang="ja" state="translated"><g id="1">エンジニアがオープンソースを使用する方法に関する標準プロセスを構築するだけでなく、エンジニアがオープンソースに貢献したり、あるいは独自のプロジェクトを作成したり方法に関する標準プロセスを構築する必要もあります。</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu91" xml:space="preserve">
+<source xml:lang="en"><g id="1">projects or even create their own projects. In many organizations, these decisions had previously been made between an individual engineer and their manager, the result of which is a blend of approaches and a lack of certainty about what is acceptable. </g></source>
+<target xml:lang="ja" state="translated"><g id="1">多くの組織では、これらの決定は、事前に個々のエンジニアとそのマネージャーの間で行われており、その結果、様々なアプローチが混在し、何が受け入れられるかについての確実性が欠如していました。</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu92" xml:space="preserve">
+<source xml:lang="en"><g id="1">Often part of an OSPO’s initial mandate is to create policies about both consuming and contributing to open source that are distributed throughout the engineering organization. The goal is to eliminate bottlenecks and confusion for engineers both in using and contributing back to open source. </g></source>
+<target xml:lang="ja" state="translated"><g id="1">多くの場合、OSPO の最初の任務の一部は、エンジニアリング組織全体に配布されるオープンソースの使用と貢献の両方に関するポリシーを作成することです。目標は、エンジニアがオープンソースを使用したり貢献する際のボトルネックと混乱を解消することです。</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu93" xml:space="preserve">
+<source xml:lang="en"><g id="1">Improving an organization’s reputation</g></source>
+<target xml:lang="ja" state="translated"><g id="1">組織の評判の向上</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu94" xml:space="preserve">
+<source xml:lang="en"><g id="1">Improving an organization’s reputation in the open source ecosystem is an important motivator for many companies to create an OSPO.</g></source>
+<target xml:lang="ja" state="translated"><g id="1">オープンソースエコシステムにおける組織の評判を向上させることは、多くの企業が OSPO を作成する重要な動機となっています。</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu95" xml:space="preserve">
+<source xml:lang="en"><g id="1">“Our goal was to not only be more strategic and act with intent but also to elevate our reputation in the open source community—to be perceived as and accepted as a responsible, positive contributor to the open source ecosystem,” said Ambiel, of VMware.</g></source>
+<target xml:lang="ja" state="translated"><g id="1">「私たちの目標は、より戦略的になり、意図を持って行動するだけでなく、オープンソースコミュニティでの評判を高め、オープンソースエコシステムへの責任ある積極的なコントリビューターとして認識され、受け入れられることでした。」と VMware の Ambiel 氏は述べています。</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu96" xml:space="preserve">
+<source xml:lang="en"><g id="1">This is particularly important because if a company shows up to a project without any kind of pre-existing relationship and suddenly needs a new feature, or a bug fixed, that request won’t likely be a priority. Whereas if the company has been consistently investing in being part of the community, when they need something, the community may be more likely to prioritize it. </g></source>
+<target xml:lang="ja" state="translated"><g id="1">これは特に重要です。なぜなら、企業が既存の関係をまったく持たずにプロジェクトに参加し、突然新しい機能やバグ修正が必要になった場合、その要求はおそらく優先されません。一方、企業がコミュニティの一員になるために一貫して投資を行っている場合、何かが必要な場合、コミュニティはそれを優先する可能性が高くなります。</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu97" xml:space="preserve">
+<source xml:lang="en"><g id="1">“We need to employ people who have commit rights,” said Prat, of Aiven, referring to commit rights on the projects Aiven is built around. The only way to get that is through continual investment in the project, which is why Aiven created an OSPO to ensure the company, and the individuals it employs, are active in the community.</g></source>
+<target xml:lang="ja" state="translated"><g id="1">「私たちは、コミット権を持つ人を雇用する必要があります」と Aiven の Prat 氏は、Aiven が構築されているプロジェクトのコミット権について言及しました。これを実現する唯一の方法は、プロジェクトへの継続的な投資です。これが、会社とそこで雇用されている個人がコミュニティで積極的に活動できるようにするために Aiven が OSPO を作成した理由です。</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu98" xml:space="preserve">
+<source xml:lang="en"><g id="1">An OSPO is also a way to share knowledge about how to approach open source. To even be part of the conversation about what it means to use open source strategically, a company probably needs to establish an OSPO. According to Fukuchi, this knowledge sharing is a big part of the value Sony gets from its OSPO. </g></source>
+<target xml:lang="ja" state="translated"><g id="1">OSPO は、オープンソースへのアプローチ方法に関する知識を共有する手段でもあります。オープンソースを戦略的に使用することの意味についての会話に参加するためでさえ、おそらく企業は OSPO を設立する必要があります。福地氏によると、この知識の共有は、ソニーが OSPO から得る価値の大きな部分を占めています。</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu99" xml:space="preserve">
+<source xml:lang="en"><g id="1">Improving an organization’s reputation is ultimately about being able to work productively with others in the industry as well as being part of the conversation about the direction of key projects. “Growing our reputation allows us to be in larger market conversations in the tech world, where we can then have an impact on products and solutions that are important to us,” said Vlatko, of Wayfair. </g></source>
+<target xml:lang="ja" state="translated"><g id="1">組織の評判を向上させることは、最終的には、業界内の他の人々と生産的に協力できることと、重要なプロジェクトの方向性に関する会話に参加できることです。「私たちの評判が高まることで、テクノロジーの世界でより大きな市場の会話に参加できるようになり、そこで私たちにとって重要な製品やソリューションに影響を与えることができます。」と Wayfair の Vlatko 氏は述べています。</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu100" xml:space="preserve">
+<source xml:lang="en"><g id="1">Expanding access to open knowledge</g></source>
+<target xml:lang="ja" state="translated"><g id="1">開かれた知識へのアクセスの拡大</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu101" xml:space="preserve">
+<source xml:lang="en"><g id="1">For universities, an OSPO is a way to increase the impact of research and make it more accessible or useful to the wider community, as well as a way to improve students’ access to knowledge. </g></source>
+<target xml:lang="ja" state="translated"><g id="1">大学にとって、OSPO は、研究の影響力を高め、より幅広いコミュニティに対して、よりアクセスしやすく有用なものにする方法であり、学生が知識にアクセスしやすく改善する方法でもあります。</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu102" xml:space="preserve">
+<source xml:lang="en"><g id="1">“If you have students engaged with reproducing the results, there have already been studies that show that there is a huge, much better learning effect compared to just reading papers.”</g></source>
+<target xml:lang="ja" state="translated"><g id="1">「学生が結果を再現することに取り組んでいる場合、論文を読むだけに比べてはるかに大きな、より優れた学習効果があることを示す研究がすでに行われています。」</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu103" xml:space="preserve">
+<source xml:lang="en"><g id="1">“It’s a huge difference whether a student can just read a paper, or they can look at the paper, then go on to an associated public git repository and have all the information there to reproduce the experiment,” said Maltzahn, of UC Santa Cruz. “If you have students engaged with reproducing the results, there have already been studies that show that there is a huge, much better learning effect compared to just reading papers.” This is important for student retention. Many students leave computer science prematurely because they get too frustrated by the steep learning curve of getting brittle experimental systems to work in computing environments even experts don’t fully understand. Incorporating the practicality of open source into how students learn and reducing the frustration they experience can help them be successful with computer science in the short term and software development in the long term. </g></source>
+<target xml:lang="ja" state="translated"><g id="1">「生徒が論文を読むことができるか、論文を見てから関連する公開 git リポジトリに移動して、そこにある実験を再現するための情報をすべて入手できるかは大きな違いです。」とカリフォルニア大学サンタクルーズ校の Maltzahn 氏は述べています。「学生が結果を再現することに取り組んでいる場合、論文を読むだけに比べてはるかに大きな、より優れた学習効果があることを示す研究がすでに行われています。」これは学生の定着にとって重要です。多くの学生は、専門家でさえ完全には理解していないコンピューティング環境で壊れやすい実験システムを動作させるという急峻な学習曲線にフラストレーションを感じ、コンピューターサイエンスを途中でやめてしまいます。オープンソースの実用性を学生の学習方法に組み込み、学生が経験するフラストレーションを軽減することで、短期的にはコンピューターサイエンスを、長期的にはソフトウェア開発を成功させることができます。</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu104" xml:space="preserve">
+<source xml:lang="en"><g id="1">Improving development velocity</g></source>
+<target xml:lang="ja" state="translated"><g id="1">開発速度の向上</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu105" xml:space="preserve">
+<source xml:lang="en"><g id="1">No one starts building a product by creating an operating system—nothing would ever get built.</g></source>
+<target xml:lang="ja" state="translated"><g id="1">オペレーティングシステムの作成から製品の構築を開始する人はいません。そうやって構築されるものは何もありません。</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu106" xml:space="preserve">
+<source xml:lang="en"><g id="1">“There are parts of our products that consist almost entirely of open source software, and that is a fundamental change in the long history of Ericsson,” said Georg Kunz, open source manager at Ericsson. </g></source>
+<target xml:lang="ja" state="translated"><g id="1">「当社の製品の一部は、ほぼ完全にオープンソースソフトウェアで構成されています。これは、エリクソンの長い歴史における根本的な変化です」と、エリクソンのオープンソースマネージャーである Georg Kunz 氏は述べています。 </g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu107" xml:space="preserve">
+<source xml:lang="en"><g id="1">Not only does an OSPO bring order to how the company is consuming open source projects, but it can also provide guidance about which projects to use. </g></source>
+<target xml:lang="ja" state="translated"><g id="1">OSPO は、企業がオープンソースプロジェクトをどのように使用しているかに秩序をもたらすだけでなく、どのプロジェクトを使用するかについてのガイダンスを提供することもできます。</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu108" xml:space="preserve">
+<source xml:lang="en"><g id="1">Improve access to talent</g></source>
+<target xml:lang="ja" state="translated"><g id="1">人材へのアクセスの改善</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu109" xml:space="preserve">
+<source xml:lang="en"><g id="1">There are two ways that open source improves access to talent. The most obvious way is by allowing organizations to hire higher caliber engineers, either by improving their general reputation in the open source world or even by creating their own open source projects and hiring from the pool of people who become active in those projects’ communities. “My boss and executive sponsor want to know that we have a healthy relationship with the open source community because we need to hire from it,” said O’Brien, of Indeed. </g></source>
+<target xml:lang="ja" state="translated"><g id="1">オープンソースが人材へのアクセスを改善する方法は 2 つあります。最も明白な方法は、組織がより優秀なエンジニアを雇用できるようにすることです。これは、オープンソースの世界での一般的な評判を向上させるか、独自のオープンソースプロジェクトを作成して、それらのプロジェクトのコミュニティでアクティブになる人々のプールから採用することによっても可能です。」と Indeed の O’Brien 氏は述べています。</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu110" xml:space="preserve">
+<source xml:lang="en"><g id="1">“One of the biggest challenges we have—like other IT companies—is finding people to do all the software work” </g></source>
+<target xml:lang="ja" state="translated"><g id="1">「他の IT 企業と同様に、私たちが直面している最大の課題の 1 つは、すべてのソフトウェア作業を担当する人材を見つけることです」</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu111" xml:space="preserve">
+<source xml:lang="en"><g id="1">The other way an OSPO, and the strategic approach to open source that comes with it, can improve access to talent is by creating open source projects that solve an organization’s problems, particularly when solving problems that are common in many organizations, </g></source>
+<target xml:lang="ja" state="translated"><g id="1">OSPO とそれに付随するオープンソースへの戦略的アプローチが人材へのアクセスを改善するもう 1 つの方法は、組織の問題を解決する、特に多くの組織で一般的な問題を解決し、その問題解決が競争的優位性を産まない、オープンソースプロジェクトを作成することです。</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu112" xml:space="preserve">
+<source xml:lang="en"><g id="1">and solving them doesn’t provide any competitive advantage. “One of the biggest challenges we have—like other IT companies—is finding people to do all the software work,” said Schumacher, of DB Systel. If the company can create an open source project and collaborate with others in the industry, it can leverage tech talent without having to hire more people. </g></source>
+<target xml:lang="ja" state="translated"><g id="1">「他の IT 企業と同様に、私たちが直面している最大の課題の 1 つは、すべてのソフトウェア作業を担当する人材を見つけることです」と DB Systel の Schumacher 氏は述べています。企業がオープンソースプロジェクトを作成し、業界内の他の企業と協力することができれば、より多くの人を雇うことなく技術者を活用できます。</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu113" xml:space="preserve">
+<source xml:lang="en"><g id="1">According to Schumacher, encouraging engineers to both use and contribute to open source is also one way to make them happy and less likely to leave. Similarly, encouraging more engineers to create open source projects and do more work in the open is a way to upskill the workforce you already have. </g></source>
+<target xml:lang="ja" state="translated"><g id="1">Schumacher によると、エンジニアにオープンソースの使用と貢献の両方を奨励することも、エンジニアを満足させ、離れにくくする 1 つの方法です。同様に、より多くのエンジニアにオープンソースプロジェクトを作成し、より多くの作業をオープンに行うよう奨励することは、既存の労働力のスキルを向上させる方法です。</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu114" xml:space="preserve">
+<source xml:lang="en"><g id="1">“If we are showing our code externally, if we’re showing our technical prowess externally, there is a certain kind of element of needing to put your best foot forward,” said Vlatko, of Wayfair. She says that as Wayfair has encouraged people to work more in the open, they’ve seen code quality and general adherence to best practices improve. </g></source>
+<target xml:lang="ja" state="translated"><g id="1">「私たちのコードを外部に公開する場合、または技術的な優れた能力を外部に公開する場合、ある種の最善を尽くす必要がある要素があります」と Wayfair の Vlatko 氏は述べています。彼女は、Wayfair が人々にもっとオープンに仕事をするよう奨励したので、コードの品質とベストプラクティスへの全般的な準拠が向上したと述べています。</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu115" xml:space="preserve">
+<source xml:lang="en"><g id="1">Mitigating risks</g></source>
+<target xml:lang="ja" state="translated"><g id="1">リスクの軽減</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu116" xml:space="preserve">
+<source xml:lang="en"><g id="1">There are different risks from open source, and a formal OSPO can help mitigate all of them. One reason to formalize the OSPO structure is that one or two engineers are fulfilling an OSPO-like role but without the title or structure. This is what happened at Ericsson. “We basically had a one-person OSPO,” said Kunz. <x id="2"/>“He took care of everything, mostly focused on compliance, as many OSPOs start out doing. But obviously, that’s not sustainable. This guy should not get run over by a bus.” </g></source>
+<target xml:lang="ja" state="translated"><g id="1">オープンソースにはさまざまなリスクがあり、正式な OSPO はそれらすべてを軽減するのに役立ちます。OSPO の構造を形式化する理由の 1 つは、1 人または 2 人のエンジニアが OSPO のような役割を果たしているが、肩書きや構造がないためです。これがエリクソンで起こったことです。「私たちは基本的に 1 人の OSPO を持っていました」と Kunz 氏は言います。<x id="2"/>「彼は、多くの OSPO が始めたように、主にコンプライアンスに重点を置いて、すべてを担当しました。しかし、明らかに、それは持続可能ではありません。この人はバスに轢かれてはいけない。」</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu117" xml:space="preserve">
+<source xml:lang="en"><g id="1">Creating the OSPO formalizes what has often happened in an ad hoc way, reducing the reliance on tribal knowledge and lowering the risk that the departure of a single critical person could put the company at risk of legal issues, security incidents, or just being left out of the open source conversation. </g></source>
+<target xml:lang="ja" state="translated"><g id="1">OSPO を作成することで、アドホックな方法でしばしば起こったことを形式化し、部族の知識への依存を減らし、1 人の重要人物の離職によって会社が法的な問題やセキュリティインシデント、またはオープンソースの会話から取り残される危険に晒されるリスクを軽減します。</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu118" xml:space="preserve">
+<source xml:lang="en"><g id="1">Security</g></source>
+<target xml:lang="ja" state="translated"><g id="1">セキュリティ</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu119" xml:space="preserve">
+<source xml:lang="en"><g id="1">Ensuring a company is staying as secure as possible—and particularly understanding the software bill of materials going into both internal and external applications—was a recurrent theme about how the OSPO provides value. </g></source>
+<target xml:lang="ja" state="translated"><g id="1">企業を可能な限り安全に保つこと、特に社内外のアプリケーションに使用されるソフトウェア部品表を理解することは、OSPO がどのように価値を提供するかに関して繰り返されたテーマでした。</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu120" xml:space="preserve">
+<source xml:lang="en"><g id="1">“We cannot develop our own security framework without being in tune with what’s being developed collaboratively in the community”</g></source>
+<target xml:lang="ja" state="translated"><g id="1">「コミュニティで協力して開発されているものに合わせずに、独自のセキュリティフレームワークを開発することはできません」</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu121" xml:space="preserve">
+<source xml:lang="en"><g id="1">However, the examples were on a strategic, rather than strict implementation, level. “We cannot develop our own security framework without being in tune with what’s being developed collaboratively in the community,” said O’Brien, from Indeed. “Then you take that, and you apply that across every domain.”</g></source>
+<target xml:lang="ja" state="translated"><g id="1">しかし、これらの例は、厳密な実装レベルではなく、戦略的なレベルのものでした。 「コミュニティで協力して開発されているものに合わせずに、独自のセキュリティフレームワークを開発することはできません」と Indeed の O’Brien 氏は述べています。 「次に、それをすべてのドメインに適用します。」</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu122" xml:space="preserve">
+<source xml:lang="en"><g id="1">“By design, it’s a distributed problem,” said Kunz, of Ericsson, about software supply chain security. “It’s not the best engineer who will solve this problem, and you can’t solve this problem with an internal process.” It’s something that requires working with others throughout the industry and the open source ecosystem. An OSPO gives organizations a way to do that, even if the OSPO is not ultimately responsible for implementing security processes. They do share best practices and facilitate collaboration among open source communities, industry actors, foundations, and other stakeholders to lift all security boats. </g></source>
+<target xml:lang="ja" state="translated"><g id="1">ソフトウェアサプライチェーンのセキュリティについて、「設計上、これは分散型の問題です」と Ericsson の Kunz 氏は述べています。「この問題を解決するのは最高のエンジニアではありませんし、社内プロセスでこの問題を解決することはできません。」これは、業界全体およびオープンソースエコシステム全体で他の人と協力する必要があるものです。OSPO がセキュリティプロセスの実装に最終的な責任を負わない場合でも、OSPO は、組織にそれを行う方法を提供します。彼らは、ベストプラクティスを共有し、オープンソースコミュニティ、業界関係者、財団、およびその他の利害関係者間のコラボレーションを促進して、すべてのセキュリティボートを牽引します。</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu123" xml:space="preserve">
+<source xml:lang="en"><g id="1">Security is also a reason why organizations want to be involved and respected community members in projects that are strategically important to them. This allows them to be part of the behind-the-scenes conversations not only about any new features in the pipeline but also to learn about any potential security issues first. </g></source>
+<target xml:lang="ja" state="translated"><g id="1">セキュリティは、組織にとって戦略的に重要なプロジェクトに参加し、コミュニティメンバーに尊重されたい理由でもあります。これにより、パイプラインの新機能についてだけでなく、潜在的なセキュリティの問題についても最初に学ぶことができる、舞台裏の会話への参加を可能にします。</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu125" xml:space="preserve">
+<source xml:lang="en"><g id="1">Sustainability</g></source>
+<target xml:lang="ja" state="translated"><g id="1">持続可能性</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu126" xml:space="preserve">
+<source xml:lang="en"><g id="1">Sometimes open source projects are abandoned, and that can be bad if you depend on them. “If we have a strong dependency on a single maintainer in Norway, then you should probably do something about the relationship with that person to make sure they stay engaged, either by ensuring that our developers spend time on the projects or by sending some money,” said Ploug, of Spotify. An OSPO both helps identify the risk—otherwise, the fact that it is a single maintainer could be unknown—and identify the best way to mitigate that risk.</g></source>
+<target xml:lang="ja" state="translated"><g id="1">オープンソースプロジェクトが放棄されることがあり、それに依存している場合には悪い事態になりえます。「ノルウェーの 1 人のメンテナーに強く依存している場合は、自社の開発者がそのプロジェクトに時間を費やせるようにするか、いくらかのお金を送ることによって、その人との関係について何らかの措置を講じて、彼らが関与し続けるようにする必要があります。」と Spotify の Ploug 氏は述べています。OSPO は、リスクを特定するのに役立ちます。そうでなければ、単一のメンテナーであるという事実が知らされないままになる可能性があります。また、そのリスクを軽減する最善の方法を特定するのにも役立ちます。</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu127" xml:space="preserve">
+<source xml:lang="en"><g id="1">This precise issue is what led O’Brien, at Indeed, to create the FOSS contributor fund, which is a way for Indeed to financially support maintainers of projects it depends on. The program’s goal is to support maintainers who are at high risk of burnout as a way to mitigate the risk that the project will end up abandoned. </g></source>
+<target xml:lang="ja" state="translated"><g id="1">まさにこの問題が、O’Brien が Indeed で FOSS 貢献者基金を設立するきっかけとなったものです。これは、Indeed が依存するプロジェクトのメンテナーを財政的に支援する方法です。このプログラムの目標は、プロジェクトが最終的に放棄されるリスクを軽減する方法として、燃え尽き症候群のリスクが高いメンテナーをサポートすることです。</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu130" xml:space="preserve">
+<source xml:lang="en"><g id="1">The OSPO journey</g></source>
+<target xml:lang="ja" state="translated"><g id="1">OSPO の「ジャーニー」</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu131" xml:space="preserve">
+<source xml:lang="en"><g id="1">The first step for many OSPOs, before they can begin to address more strategic concerns, is what many OSPO leaders described as cleaning up the mess of open source, recovering from years of ad hoc approaches to consuming and contributing to open source. </g></source>
+<target xml:lang="ja" state="translated"><g id="1">多くの OSPO リーダーたちによれば、OSPO にとってより戦略的な問題に取り組もうとする前の段階で経験する最初のステップというのは、オープンソースを使うことやコントリビュートすることが「いきあたりばったり」になってるところからなんとか抜け出してオープンソースが煩雑になっているのをなんとか整理すること、なのだそうです。</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu132" xml:space="preserve">
+<source xml:lang="en"><g id="1">“We’ve had 10 years of publishing projects without a longer-term plan or formalized ownership,” said Ploug, of Spotify. The OSPO is currently going through all the projects that the company has created, figuring out who owns them—and making sure that ownership is assigned to a team, not an individual. There is also a process of determining which projects can be shut down, which requires confirming that there is no internal use. </g></source>
+<target xml:lang="ja" state="translated"><g id="1">「私たちは、プロジェクトについて長期的プランとかちゃんとしたオーナーシップもない状態なのに 10 年もそういうプロジェクトをパブリッシュしつづけてきたんですよ」と、 Spotify の Ploug は振り返ります。 今 Spotify の OSPO では Spotify 社内から生まれたプロジェクトをすべて調査し、プロジェクトのオーナーをはっきりさせ、さらにオーナーシップが個人ではなく、チームにアサインされていることを確認しています。プロジェクトをシャットダウンさせるかどうか決めるプロセスもあり、ここでは社内利用がないことの確認も求められています。 </g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu133" xml:space="preserve">
+<source xml:lang="en"><g id="1">Other work that OSPOs often tackle initially is finite and can, at some point, be finished, such as the initial question about which licenses can or cannot be used. Usually, the OSPO can work with the legal team to figure out what is or is not acceptable, but once there is a decision, it doesn’t need revisiting and becomes a matter of communicating to the entire organization what licenses are acceptable in which scenarios. </g></source>
+<target xml:lang="ja" state="translated"><g id="1">最初のフェーズで OSPO が取り組むことは限られていて、どこかのタイミングで確実に完了できる類のものです。たとえば、「どういったライセンスが使えて、どういったものが使えないのか？」といった話です。OSPO はリーガルチームと協力して何が受容できて、何ができないかを判断できるというのが普通で、そして一旦判断できたなら、その後はもう再検討不要なことになります。そうなると大事なのは、「どういったシナリオで、どういったライセンスが受け入れられないのか」という、組織全体に向けたコミュニケーションの話になってきます。 </g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu134" xml:space="preserve">
+<source xml:lang="en"><g id="1">But what do organizations do once they have already organized their internal projects, developed frameworks for how to use and contribute to open source, and sufficiently addressed compliance? </g></source>
+<target xml:lang="ja" state="translated"><g id="1">では、社内のプロジェクトを整理し、オープンソースの使い方、コントリビューションのしかたについてフレームワークを開発してコンプライアンスも十分に対応したそのあと、組織は何をすべきなのでしょう? </g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu135" xml:space="preserve">
+<source xml:lang="en"><x id="1"/><g id="2">Overcoming internal obstacles: Culture and education</g></source>
+<target xml:lang="ja" state="translated"><x id="1"/><g id="2">組織の中での障壁を克服する：カルチャーと教育</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu136" xml:space="preserve">
+<source xml:lang="en"><g id="1">Once an OSPO has developed policies around using and contributing to open source, a common next step is to spread the word internally. This is not a trivial consideration, especially given that many OSPOs are only a handful of people in an organization with thousands or even tens of thousands of engineers. This internal communication role of the OSPO also goes back to one trigger for creating the OSPO in the first place: a large number of queries coming from software engineers about how to relate to open source. </g></source>
+<target xml:lang="ja" state="translated"><g id="1">OSPO がオープンソースの利用とオープンソースへのコントリビューションに関してポリシーを作ったあとの共通的な次のステップは、その「言葉」を社内へ広めていくことです。これは些末な話ではありません。特に数千人または数万人ものエンジニアたちがいる組織の中で多くの OSPO は、ほんの一握り程度の人数にすぎない、といったことを考えればそれが些末な話ではないことがよくわかります。 この、OSPO の「内部コミュニケーション」の役割は、OSPO を作ることになった最初のきっかけに起源をもちます。それは、オープンソースとの関わり方について寄せられる、ソフトウェアエンジニアたちからの多数の問い合わせです。 </g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu137" xml:space="preserve">
+<source xml:lang="en"><g id="1">“When we are talking about contributing to open source software, in the beginning, the question we started with was, ‘are we even allowed to do that?’” said Schumacher, from DB Systel. People just did not know what parameters there were about using, and especially around contributing back to, open source. If one of the first-level goals of an OSPO is to figure out what those parameters are, the secondary goal is to make sure that there is a dissemination of knowledge throughout the organization. </g></source>
+<target xml:lang="ja" state="translated"><g id="1">「最初、オープンソース ソフトウェアへのコントリビューションについて話していたとき、こんな疑問から始まったんです、『それって許可されてることなんだっけ？』って。」と DB Systel 社 Schumacher は言います。単純に、オープンソースを利用すること、特にオープンソースにコントリビュートすることについて、どういうパラメーターがあるのか、皆が知らなかったのです。 これらのパラメーターを理解することがOSPO の最初のゴールの 1 つがだとしたら、知識として組織全体へ浸透させることが次のゴールとなってきます。 </g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu138" xml:space="preserve">
+<source xml:lang="en"><g id="1">According to Vlatko, from Wayfair, after setting up an organizational structure in GitHub and figuring out the license types that were acceptable for use, there was an educational campaign to ensure that information was widely known across the organization.</g></source>
+<target xml:lang="ja" state="translated"><g id="1">Wayfair 社 Vlatko によれば、彼らが GitHub 上で組織設定をし、利用に適したライセンスタイプを明確にした後、周知のための教育キャンペーンを行ったそうです。 </g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu139" xml:space="preserve">
+<source xml:lang="en"><g id="1">But aside from preemptively answering engineers’ questions about interacting with open source, there is an even larger shift in how people think about open source. “The question has changed a bit from whether or not to do open source to how to do open source strategically,” said Schumacher. “What I’m seeing now, after some time, is that we are looking more into the strategic part of how you can leverage open source, for example, in collaborations with external companies.” </g></source>
+<target xml:lang="ja" state="translated"><g id="1">オープンソースとの関わり方についてエンジニアがしてくる質問を先取りしておくという話はそれとしてありますが、一方でそもそも人々のオープンソースに対する考え方が大きくシフトしてきているという実態があります。 「彼らのしてくる質問が、オープンソースを利用するべきかどうか、という話からオープンソースをどうやったら『戦略的に』実践できるのか、という話に変わってきたのです」、と Schumacher は言います。 「時間がたつと、たとえば外の会社とのコラボレーションにおいて、オープンソースでどうレバレッジできるか、といった戦略的な部分に検討が深まっている状況に気づきました」 </g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu140" xml:space="preserve">
+<source xml:lang="en"><g id="1">Even though open source is everywhere, not all organizations have the culture around open source that they want, and opinions about open source are far from universally positive. Some people, from individual contributors to managers and executives, have had bad experiences with open source software or open source communities at some point in their careers, and convincing those people to embrace open source is part of the OSPO’s challenge. </g></source>
+<target xml:lang="ja" state="translated"><g id="1">オープンソースはあらゆるところに存在するものですが、組織のすべてでオープンソースをとりまくカルチャーを持っているわけではありませんし、むしろオープンソースに対しポジティブでない立ち位置を取る場合もあります。個人のコントリビューターをはじめとしてマネージャーやエグゼクティブに至る人たちの中に、自身のキャリアの中でオープンソース ソフトウェアやオープンソース コミュニティで「嫌な」経験をした人たちがいます。そうした人々にオープンソースのメリットを享受するよう説得するのは、OSPO の課題の 1 つでもあります。 </g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu141" xml:space="preserve">
+<source xml:lang="en"><g id="1">“We want to create a cultural mind shift and grow the community around open source,” said Abernathy, at F5. This will be a major driver in helping the company play a larger role in the open source ecosystem. In a real sense, OSPOs seek to improve open source’s reputation within the organization just as much as the organization’s reputation within the open source ecosystem. </g></source>
+<target xml:lang="ja" state="translated"><g id="1">「カルチャーのマインドシフトを起こし、オープンソースを中心としたコミュニティを育みたいですね」と F5 社 Abernathy は言います。こういった方向性が同社がオープンソースエコシステムでより大きな役割を担う上で大事な原動力となっていきます。実際のところ、OSPOという組織がオープンソースのエコシステムで会社のレピュテーションを上げるのと同じように、「組織内で」オープンソースのレピュテーションを上げる努力をしているのです。 </g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu142" xml:space="preserve">
+<source xml:lang="en"><x id="1"/><g id="2">A strategic relationship with open source</g></source>
+<target xml:lang="ja" state="translated"><x id="1"/><g id="2">オープンソースと戦略的な関係を</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu143" xml:space="preserve">
+<source xml:lang="en"><g id="1">There is no doubt that the strategic importance of open source varies depending on the type of company. For a company like Futurewei, open source alternatives to the “black box” solutions it sells are a fundamental threat to the company’s ability to generate revenue. “And how you deal with this as a business, not a technology decision,” said Xie.</g></source>
+<target xml:lang="ja" state="translated"><g id="1">オープンソースの戦略的な重要性は、間違いなく企業や業種に依存します。 Futurewei のような会社にとって、同社の販売している「ブラックボックスな」ソリューションの代替になるようなオープンソースが会社の収益力を根本から脅かすものになります。 「オープンソースを技術的なディシジョンではなくて、ビジネスディシジョンとしてみっときにどう扱うか？という話なのです。」と、Xie は言います。</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu144" xml:space="preserve">
+<source xml:lang="en"><g id="1">In a similar vein, VMware’s Ambiel stated, “At the end of the day, what does VMware do? We sell software. So, our open source investments need to align with our business aspirations.” The OSPO is there to make sure that happens. </g></source>
+<target xml:lang="ja" state="translated"><g id="1">同じような文脈で VMware 社 Ambiel もこう言います。「結局 VMWare って何の会社なのか？といえば、結局はソフトウェアを売る会社なわけです。なので、私たちがするオープンソースへの投資は、ビジネスでの志に沿ったものでないといけないですよね。」 OSPO という組織は、この実現のために存在しているのです。 </g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu145" xml:space="preserve">
+<source xml:lang="en"><g id="1">At Spotify, there’s an ambition to spin out the company’s two most successful open source projects into separate business units that will launch commercial products based on the projects, turning the project from a cost center to a profit center. Part of the OSPO’s role at Spotify is to help identify and launch new projects that could potentially become new business units and support them in a way that increases the likelihood of success. </g></source>
+<target xml:lang="ja" state="translated"><g id="1">Spotify 社には一つ野望があるそうです。それは同社で成功した 2 つのオープンソース プロジェクトを別のビジネスユニットへとスピンアウトさせ、このプロジェクトをベースとした商用プロダクトをローンチし、プロジェクトをコストセンターからプロフィットセンターへと転換させるというものです。 Spotify では OSPO の役割の 1 つが、このように新しいビジネスユニットになりうる、新たなプロジェクトを特定したり立ち上げたりすることを支援し、それらが成功する確立を高めていくことなのです。 </g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu147" xml:space="preserve">
+<source xml:lang="en"><g id="1">The different hats of an OSPO </g></source>
+<target xml:lang="ja" state="translated"><g id="1">さまざまな役を演じる OSPO </g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu148" xml:space="preserve">
+<source xml:lang="en"><g id="1">The Counselor</g></source>
+<target xml:lang="ja" state="translated"><g id="1">カウンセラーになる</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu149" xml:space="preserve">
+<source xml:lang="en"><g id="1">Sometimes a strategic approach just means stepping back and taking the time to think through some of the hard questions about what type of engagement model is right for any particular project or how involved the organization should be in each project. There is also the question of when it makes sense to contribute to an existing project versus creating a new project. An OSPO that is having these strategy-level conversations will be able to provide guidelines to engineers so that engineers do not have to consider the business implications of different open source engagement models every time they try to solve a problem. </g></source>
+<target xml:lang="ja" state="translated"><g id="1">ときとして戦略的アプローチが意味するのは、どんなプロジェクトにどんなエンゲージメントモデルがいいのか、組織としてそれぞれのプロジェクトにどう関わるべきか、といったハードな問いに対し、一歩引いて時間をかけて検討する、ということでもあります。また、新しいプロジェクトを立ち上げないで、既存のプロジェクトにコントリビュートする方が得策となる、そのタイミングもまたはそういう類の問いになってきます。こういった戦略レベルの対話をしている OSPO は、エンジニアたちが問題に直面しそれを解決しようとする都度、各種オープンソースのエンゲージメントモデルのビジネス的な含みにまで考えすぎることがないよう、彼らにガイドラインを提供することができるでしょう。 </g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu150" xml:space="preserve">
+<source xml:lang="en"><g id="1">The Facilitator</g></source>
+<target xml:lang="ja" state="translated"><g id="1">ファシリテーターになる</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu151" xml:space="preserve">
+<source xml:lang="en"><g id="1">The OSPO also plays a sort of translation role between engineering teams and business interests regarding open source. “How do we ensure that engineers keep having the time to do this, that they can actually prove that it makes sense from a business perspective?” said Abernathy, about how communicating the business value of open source is part of the OSPO’s job at F5.</g></source>
+<target xml:lang="ja" state="translated"><g id="1">オープンソースに関連し、OSPO がエンジニアリングチームと事業関係者との間に入り翻訳者として立ち回ることもあります。「エンジニアがこういったオープンソースの活動ができる時間をキープすること、それがビジネスの観点からみても理にかなっていると実際に証明できるようにすること、私たちはどうこれを担保するのか？と考えるんです」 と、F5 の Abernathy が話してくれたことは、オープンソースのビジネスバリューを伝えていくことが OSPO としての仕事の一部となっているか、ということを物語っています。</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu152" xml:space="preserve">
+<source xml:lang="en"><g id="1">These strategic questions are not always top of mind when the OSPO is first created, especially at less tech-focused companies where open source doesn’t present a direct threat to revenue. But even those companies eventually see that using open source well is about more than mitigating license compliance risk. “Now we are also looking into more cases where it makes sense from a strategic point of view to leverage open source for our own projects or in collaborations with other parties,” said Schumacher, even though he does not think these strategic concerns were as important when the OSPO was initially set up. </g></source>
+<target xml:lang="ja" state="translated"><g id="1">こういった戦略的な問いが、OSPO が創設されたときに頭に浮かんでくるとは限らないものです。特に、オープンソースが収益性に対し直接的脅威とならない、テクノロジーにさほど注力していない会社ではそうかもしれません。とはいえ、そういった企業でさえ、最終的にはオープンソースを適切に利用することがライセンスコンプライアンスのリスクを軽減するだけでなく、それを超えた話だと気づくようになります。「今、自社のプロジェクトに対し、もしくは社外とのコラボレーションにおいてオープンソースを活用することが戦略的観点で理にかなうケースについて私たちも理解を深めているところです」と、Schumacher は言います。OSPO が最初に設定されたとき、彼はこれらの戦略的懸念として重要だとは考えていなかったそうです。 </g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu153" xml:space="preserve">
+<source xml:lang="en"><g id="1">Ensuring OSPO sustainability</g></source>
+<target xml:lang="ja" state="translated"><g id="1">OSPO のサステナビリティを確保する</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu154" xml:space="preserve">
+<source xml:lang="en"><g id="1">Continuity is an ongoing challenge for organizations as they adapt to changes in the business, the competitive landscape, and the larger technological ecosystem. According to “A Deep Dive on OSPOs,” a Linux Foundation whitepaper, OSPOs need to establish a clear, easy reporting process and ensure lines of communication stay open with all the stakeholders. This is important for maintaining internal support for the OSPO, which is critical to ensuring that the organization continues to follow its agreed-upon open source strategy and is able to work sustainability on open source projects and priorities.<x id="2"/></g></source>
+<target xml:lang="ja" state="translated"><g id="1">「継続性」は、組織がビジネスや競争環境やより大きなテクノロジー領域のエコシステムの変化に適応するべく、現在進行中の課題です。 Linux Foundation のホワイトペーパーである「A Deep Dive on OSPOs」では、OSPO は、わかりやすく簡易なレポーティングのプロセスを確立し、ステークホルダーのすべてとのコミュニケーション ラインが常にオープンになっていることを確実にする必要がある、と書かれています。このことは、OSPO に対する組織内でのサポートが維持されていく上で重要です。また、 OSPO は組織が合意された「オープンソース戦略」を実践する上で OSPO は必要不可欠な存在でもあります。そして OSPO だからこそオープンソース プロジェクトの持続可能性や、プライオリティに関わる活動ができるのです。<x id="2"/></g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu156" xml:space="preserve">
+<source xml:lang="en"><x id="1"/><g id="2">Measuring an OSPO’s success</g></source>
+<target xml:lang="ja" state="translated"><x id="1"/><g id="2">OSPO の成功を測定する</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu157" xml:space="preserve">
+<source xml:lang="en"><g id="1">“When I interviewed for this role, I asked how we’re going to measure success,” Prat said. “They said ‘we don’t know yet.’”</g></source>
+<target xml:lang="ja" state="translated"><g id="1">「この役割に関するインタビューの中で、『上手く行っている事ををどのように測定するのですか？』と質問しましたが、彼らはの回答は『まだわからない』でした。」とPrat氏は語りました。</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu158" xml:space="preserve">
+<source xml:lang="en"><g id="1">This pattern of uncertainty came up often in interviews—that an executive leader championed an OSPO with the understanding that open source is important and that the company needed to take practical, tactical steps to ensure compliance and security, while also figuring out how to engage strategically along the way. In many cases, they did not really know what that looked like, and part of the OSPO’s initial mandate was to figure out what success would look like and how to measure their own progress. </g></source>
+<target xml:lang="ja" state="translated"><g id="1">この種の不確実性の事例は、インタビューの際によく出てくるものでした。組織幹部は、オープンソースは重要であり、戦略的な関与の方法を考えると同時に、組織がコンプライアンスとセキュリティを確保するために実践的かつ戦術的な措置を講じる必要があることを理解して OSPO を支持しました。多くの場合、彼らはそれがどのような形で表れて見えるかについて全くわかっていませんでした。OSPO の最初の任務は、上手く行った場合の結果がどのような形で表れるのか、そして彼ら自身の進捗をどのように測定するかを明らかにすることでした。</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu159" xml:space="preserve">
+<source xml:lang="en"><g id="1">There were some metrics interviewees talked about using to measure engagement with open source but then ultimately rejected. Pull requests (PRs), for example, are too diverse to provide meaningful information—a PR could be a typo fix or a major feature. Measuring hours worked on open source also did not seem right because it does not measure impact.</g></source>
+<target xml:lang="ja" state="translated"><g id="1">インタビュー対象者はオープンソースへの寄与を測るための指標をいくつか挙げましたが、最終的には採用されませんでした。たとえば、プルリクエスト (PR) は多様すぎて有意な情報とはなりません。PR はタイプミスの修正程度、または主要な機能の修正、いずれの可能性もあり得ます。オープンソースに関わる作業時間を測定することも、オープンソースに対する影響が測れないため、適切では無いように見えました。</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu160" xml:space="preserve">
+<source xml:lang="en"><g id="1">Deciding what to measure is fairly high-stakes and strategic, part of why the OSPO leaders themselves took on the task of figuring it out. Human nature is to optimize for the things we know we’re being evaluated on, and interviewees talked about the importance of choosing metrics that will encourage engineers throughout the organization to be better open source citizens. Often the metrics applied initially changed as the OSPO matured. For example, at Indeed, there was an initial focus on growing contributors and measuring how many people make open source contributions in any given quarter. After a while, however, they started focusing on growing what they called “sustaining contributors,” who are people that make repeated contributions to the same project—to projects that are strategically important to Indeed. This is because it is easier for maintainers to get five contributions from one person than five contributions from five people, and the larger goal is to make things easier for maintainers. </g></source>
+<target xml:lang="ja" state="translated"><g id="1">何を測定するかを決めることは、非常に高度かつ戦略的なことであり、それがOSPO のリーダーが自身でそれを解決するものとしてタスクを引き受けた理由の一つです。人間の性質として、自分たちが評価されていると認識していることに対して最適化する傾向があります。インタビュー対象者は、組織全体のエンジニアがより良いオープンソース市民になることへ導く指標を選択することの重要性について語りました。多くの場合、OSPO が成熟するにつれて、最初に適用された指標が変更されました。たとえば、Indeed 社では、コントリビューターを増やすことと、任意の四半期にオープンソースへコントリビュートする人の数を測定することが当初の重点として置かれていました。しかし、しばらくすると、彼らは、Indeed 社にとって戦略的に重要なプロジェクトに繰り返し貢献する人々である「持続的コントリビューター」と呼ばれる人々の数を増やすことに焦点を合わせ始めました。これは、メンテナーにとっては五人から 5 つのコントリビューションを受けるよりも、一人から 5 つのコントリビューションを受けるほうが楽だからであり、より大きな目標は、メンテナーがより楽になることだからです。 </g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu161" xml:space="preserve">
+<source xml:lang="en"><g id="1">Oftentimes, it is simply difficult to quantify what matters about an OSPO’s performance in numbers. “My personal measure of success is to continue to elevate VMware’s reputation and leadership in open source,” said Ambiel. “And the measures of success I have for that are fairly qualitative.” She talked about perception studies, share of voice, and times when the community organically shared VMware’s story or contributions. Individually, those metrics might be squishy, but together they “add up to a body of work that says we’re making progress.” </g></source>
+<target xml:lang="ja" state="translated"><g id="1">多くの場合、OSPO の効果を数値で定量化することはとても困難です。 Ambiel 氏は次のように述べています。「私の個人的な評価指標は、オープンソースにおける VMware 社の評判とリーダーシップを高め続けることです。そして、私が持っている成功の指標はかなり定性的です。」彼女は、認知度調査、意見の共有について、さらにコミュニティが VMware のストーリーや貢献を有機的に共有した時の事を語りました。これらの指標は個別には曖昧なものかもしれませんが、全体として「私たちが進歩している」といえるものでしょう。 </g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu162" xml:space="preserve">
+<source xml:lang="en"><g id="1">Common OSPO KPIs</g></source>
+<target xml:lang="ja" state="translated"><g id="1">一般的な OSPO KPI</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu163" xml:space="preserve">
+<source xml:lang="en"><g id="1">So, what did the OSPOs end up measuring once they had time to consider what metrics encouraged good behavior and were truly aligned with the OSPO’s goals?</g></source>
+<target xml:lang="ja" state="translated"><g id="1">では、OSPO は、どの指標が適切な行動を促進し、OSPO の目標と真に一致しているのかを検討する時間ができた後、最終的に何を測定したのでしょうか?</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu164" xml:space="preserve">
+<source xml:lang="en"><g id="1">Sustaining contributors:</g><g id="2"> The number of people in the organization who make regular, repeat contributions to the same project, assuming those projects are strategically important to the organization</g></source>
+<target xml:lang="ja" state="translated"><g id="1">持続的貢献者:</g><g id="2">組織内で同じプロジェクトに定期的に繰り返しコントリビュートしている人の数。（対象のプロジェクトがその組織にとって戦略的に重要であると仮定した場合）</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu165" xml:space="preserve">
+<source xml:lang="en"><g id="1">The success of projects released: The external participation and impact of projects the organization releases. O’Brien gave the example of a project Indeed released that the CNCF Sandbox accepted as a measure of huge success. Maltzahn, from UC Santa Cruz, mentioned the importance of measuring not just the projects released, but how successful they became at attracting a broader following outside the university and whether they would be viable long term without the continuing involvement of the university. </g></source>
+<target xml:lang="ja" state="translated"><g id="1">リリースしたプロジェクトの成功: 組織がリリースするプロジェクトへの外部からの参加と影響の度合い。O'Brien 氏は、Indeed 社がリリースしたCNCF Sandbox を大きな成功例として挙げました。 UC Santa Cruz の Maltzahn 氏は、プロジェクトのリリースだけではなく、それらが大学外でより多くの支持者を引き付けることにどれだけ成功したか、また大学の継続的な関与なしに長期的に存続可能かどうかを測定することの重要性を述べました。 </g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu166" xml:space="preserve">
+<source xml:lang="en"><g id="1">The reputation of open source internally:</g><g id="2"> Do people even know the OSPO exists? Do they know what the parameters the OSPO has established around how to consume open source, contribute to existing projects, and / or create a new project? Many companies track these internal awareness metrics, as a large part of their role is internal communications. </g></source>
+<target xml:lang="ja" state="translated"><g id="1">組織内でのオープンソースの評判:</g><g id="2">組織内の人々は OSPO の存在を知っているでしょうか? それらの人々は、オープンソースの利活用方法、既存のプロジェクトへの貢献方法、新しいプロジェクトの立ち上げ方に関して、OSPO が策定した条件を知っているでしょうか?多くの企業では、OSPO の役割の大部分が内部コミュニケーションであるため、これらの内部認識を指標として追跡しています。 </g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu167" xml:space="preserve">
+<source xml:lang="en"><g id="1">The reputation of the organization among the open source community: </g><g id="2">For the many companies who established an OSPO as a way to improve the organization’s reputation among the larger open source ecosystem, they often track reputation and awareness metrics, such as social media mentions, the number of job applicants who mention the company’s involvement in open source, or the number of employees speaking at open source-related conferences. Some do surveys of developers run by third parties and ask reputation-related questions. </g></source>
+<target xml:lang="ja" state="translated"><g id="1">オープンソースコミュニティ内での組織の評判: </g><g id="2">大規模なオープンソースエコシステムの中において組織の評判を向上させる手段として OSPO を設立した多くの企業では、ソーシャルメディアでの言及、会社のオープンソースへの関与について言及した求職者の数、オープンソース関連のカンファレンスで講演する従業員の数など、評判と認知度の指標を追跡することがよくあります。サードパーティが実施する開発者の調査を行い、評判に関連する質問をする人もいます。 </g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu168" xml:space="preserve">
+<source xml:lang="en"><g id="1">Reducing friction for developers:</g><g id="2"> In addition to tracking how aware the internal team is of policies, OSPOs often track how much friction they create for those developers. If a human needs to approve a request to contribute, for example, how long does it take? </g></source>
+<target xml:lang="ja" state="translated"><g id="1">開発者の摩擦を減らす:</g><g id="2"> 内部チームがポリシーをどの程度認識しているかを追跡することに加えて、OSPO 開発にどの程度の摩擦を生じさせたかを追跡します。それらの開発者。たとえば、ある人がコントリビュートのリクエストを承認する必要がある場合、その作業にどのくらいの時間がかかるでしょうか? </g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu169" xml:space="preserve">
+<source xml:lang="en"><g id="1">Tracking project health: </g><g id="2">Tracking the percentage of projects the organization depends on that are “healthy.” Determining a project’s health would often involve tracking the number of active contributors, the frequency of commits, the number of maintainers, and other metrics, including having users and contributors from many different organizations. </g></source>
+<target xml:lang="ja" state="translated"><g id="1">プロジェクトの健全性の追跡: </g><g id="2">組織が依存しているプロジェクトのうち、「健全」なプロジェクトの割合を追跡します。プロジェクトの健全性を判断するには、多くの場合、アクティブなコントリビューターの数、コミットの頻度、メンテナーの数、およびさまざまな組織からのユーザーと貢献者を含むその他の指標を追跡する必要があります。 </g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu170" xml:space="preserve">
+<source xml:lang="en"><g id="1">External collaboration: </g><g id="2">How many partners is the OSPO actively collaborating with? This can take the form of participation in joint ventures or sponsored programs, particularly among universities, or being actively engaged in open source foundations and industry groups. Other examples of active, external collaborations include participation in conferences as speakers, delegates, or sponsors, as well as engaging in the research development process, as many of the interviewees in this report have demonstrated. </g></source>
+<target xml:lang="ja" state="translated"><g id="1">外部協力: </g><g id="2">OSPO が積極的に協力しているパートナーは何社ですか?これは、特に大学間でのジョイントベンチャーや協賛プログラムへの参加、またはオープンソース財団や業界団体への積極的な関与という形を取ることができます。積極的な外部コラボレーションの他の例には、このレポートのインタビュー対象者の多くが示しているように、講演者、代表者、またはスポンサーとして会議に参加すること、および研究開発プロセスに関与することが含まれます。 </g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu171" xml:space="preserve">
+<source xml:lang="en"><g id="1">There are also joint projects to determine the best metrics to track: </g><g id="2">The TODO Group and CHAOSS created the OSPO metrics working group<x id="3"/> to help develop better metrics for OSPOs to measure their own success. </g></source>
+<target xml:lang="ja" state="translated"><g id="1">追跡する最適な指標を決定するための共同プロジェクト: </g><g id="2">TODO グループと CHAOSS は、OSPO が自身の成功を測定するためのより良い指標の開発を支援するため、OSPO 指標ワーキンググループを立ち上げました<x id="3"/> </g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu172" xml:space="preserve">
+<source xml:lang="en"><g id="1">The KPI search</g></source>
+<target xml:lang="ja" state="translated"><g id="1">KPI 検索</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu173" xml:space="preserve">
+<source xml:lang="en"><g id="1">Many OSPO leaders stressed that talking about quantitative metrics is not only difficult but can lead to misleading conclusions. Many OSPOs just do not have very measurable goals. “Our goals for the team are relatively high level,” said Kunz, from Ericsson. </g></source>
+<target xml:lang="ja" state="translated"><g id="1">多くの OSPO リーダーは、定量的な指標について話すことは難しいだけでなく、誤った結論につながる可能性があることを強調しました。多くの OSPO は、測定可能な目標を多くは持っていません。 「チームの目標は比較的高いレベルです」と Ericsson 社の Kunz 氏は述べています。 </g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu174" xml:space="preserve">
+<source xml:lang="en"><g id="1">“I would say we step away from numbers,” said Ambiel, from VMware. “Numbers don’t tell the story and can be misleading in open source.” </g></source>
+<target xml:lang="ja" state="translated"><g id="1">VMware 社の Ambiel 氏は次のように述べています。 「我々は数値から離れるということです。数値はストーリーを語らず、オープンソースでは誤った結論を導く可能性があります。」 </g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu175" xml:space="preserve">
+<source xml:lang="en"><g id="1">Part of the danger in focusing on numbers, Ambiel said, is that the ultimate goal of the OSPO is to push the company to be a better citizen in the open source ecosystem—and being a good citizen is never-ending. “There isn’t a metric where you can say, okay, I’m done. Check that off,” she said. “You can always lean in; you’re always trying to be better.” </g></source>
+<target xml:lang="ja" state="translated"><g id="1">数値に焦点を当てることの危険性の一つには、OSPO の最終的な目標は、組織がオープンソース エコシステムのより良い市民になるように後押しすることであり、より良い市民となることには終わりが無いものである、とAmbiel 氏は述べています。 「『よし、これで終わりました。チェックお願いします。』と言える指標はありません。常に向き合い、より良くなろうとするのです。」と Ambiel 氏は述べています。 </g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu176" xml:space="preserve">
+<source xml:lang="en"><g id="1">There can also be problems with timespans. “Every company tries to measure things in three-month timespans,” said Prat, from Aiven. But an open source maintainer does not care that you need to meet your quarterly goals for accepted contributions; they do not arrange open source projects around quarterly goals or fiscal years. </g></source>
+<target xml:lang="ja" state="translated"><g id="1">時間軸にも問題がある可能性があります。 「どの企業も、物事を 3 か月の時間軸で測定しようとしています」と Aiven 社の Prat 氏は述べています。しかし、オープンソースのメンテナーは、受け入れられたコントリビューションに対して四半期ごとの目標を達成する必要があることを気にしません。四半期ごとの目標や会計年度に基づいてオープンソースプロジェクトを編成することはありません。 </g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu177" xml:space="preserve">
+<source xml:lang="en"><g id="1">There was also a sense that OSPOs are continually evolving and, therefore, the right KPIs to track are also constantly evolving. “We are now searching for that good KPI because our activities are changing, and the status quo has changed, so we need to adjust KPIs,” Fukuchi said. </g></source>
+<target xml:lang="ja" state="translated"><g id="1">OSPO は絶えず進化している感覚があったため、追跡すべき適切な KPI も常に進化しています。 「私たちの活動が変化し、現状が変わっていることで、KPI を調整する必要があり、現在その適切な KPI を探しています。」と Fukuchi 氏は述べています。 </g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu179" xml:space="preserve">
+<source xml:lang="en"><x id="1"/><g id="2">Conclusion</g></source>
+<target xml:lang="ja" state="translated"><x id="1"/><g id="2">結論</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu180" xml:space="preserve">
+<source xml:lang="en"><x id="1"/><g id="2">What’s coming in the future? </g></source>
+<target xml:lang="ja" state="translated"><x id="1"/><g id="2">今後の展開は? </g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu181" xml:space="preserve">
+<source xml:lang="en"><g id="1">On one point, there was absolute agreement among all interviewees: OPSOs will continue to evolve in the future. In particular, the more established an OPSO is, the more it can think strategically and help the entire organization develop a more strategic, thoughtful approach to open source. What they do not need or expect is more focus on legal and compliance—that is a checkbox that most interviewees feel is more like the bare minimum and that they have got it covered already. </g></source>
+<target xml:lang="ja" state="translated"><g id="1">ある一つの点において、全てのインタビュー対象者の間には絶対的な共通認識がありました。それは、将来も OSPO は進化し続けるという事です。特に、OSPO が確立されているほど、戦略的に考える事が可能になり、組織全体がオープンソースに対してより戦略的に考え込まれた方法を開発するのに役立ちます。彼らは、法律やコンプライアンスにこれまで以上に焦点をあてる事が必要とは考えておらず、期待もしていません。ほとんどのインタビュー対象者は法律やコンプライアンスは遵守事項ではあるが、必要最低限の条件であり、既に OSPO はそれらを満たしている、と考えています。 </g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu182" xml:space="preserve">
+<source xml:lang="en"><g id="1">Several interviewees spoke about expecting OSPOs to play a larger role in influencing which technologies and projects their companies adopt in the future. There was also a hope that OSPOs will be able to dive deeper into the dependency chain to better understand which projects they depend on, even if it is two or three levels down, and track the health of those projects (and contribute where necessary). Others talked about building out automated platforms to handle some of the tasks that are now manual, like approving a request to contribute to a project. </g></source>
+<target xml:lang="ja" state="translated"><g id="1">企業が将来的に採用する技術やプロジェクトに対して、 OSPO がより大きな影響を与えていくことになる、と何人かのインタビュー対象者は話しました。また、 OSPO によってプロジェクトの依存関係のチェーンを深く掘り下げる事が可能になる事で、たとえ依存関係として２つまたは３つ下のレベルにあるプロジェクトであっても、これまで以上に理解を深める事が出来、プロジェクトの健全性も追える(そして必要に応じて貢献できる)ようになることも期待されていました。その他にも、プロジェクトに必要なリクエストの承認手続きといった、現在手動で行われているタスクの一部を自動で処理するプラットフォームを構築することについて話す人もいました。</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu183" xml:space="preserve">
+<source xml:lang="en"><g id="1">“The OSPO needs to work on a strategy, set it up, and then bring the R&amp;D folks on board to do the right thing,” said Kunz. The OSPO, Kunz and many others believe, should be working on vision and strategy and making sure they’re working with the right people throughout the company to turn that vision into reality. </g></source>
+<target xml:lang="ja" state="translated"><g id="1">「OSPO は戦略を図り、R&amp;D 担当者が適切に業務が行えるようにする必要があります」と Kunz は述べています。 Kunzをはじめ他の多くの人々も、OSPO はビジョンや戦略を打ち立て、そのビジョンの実現にむけて会社全体のしかるべき人々と協力していく必要があると考えています。 </g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu184" xml:space="preserve">
+<source xml:lang="en"><g id="1">Ultimately, part of the OSPO’s role is to have these conversations about open source, OSPOs, and the business value it delivers. That is part of open source evangelism, which is already part of many OSPOs’ mission. “I think an important part of that is really making people understand the business value,” said Schumacher. That is not always easy because open source does not always translate neatly to the things business leaders think about, but it’s important. Business leaders often know that open source is important, but they need an OSPO to help them understand why and then use that knowledge to get even more value out of <x id="2"/>open source.</g></source>
+<target xml:lang="ja" state="translated"><g id="1">結局のところ、OSPO の役割の１つは、オープンソースや OSPO、そしてそれらが生み出すビジネス価値について議論をする事です。これは、オープンソースの普及作業の１つであり、既に多くの OSPO がミッションの１つとして取り組んでいます。 「重要なのは、オープンソースのビジネス価値を真の意味で人々に理解してもらうことだと思います」と Schumacher は述べています。必ずしもビジネスリーダー達が期待する形で、きちんとオープンソースを活用できる訳ではないため、真の理解は必ずしも容易ではありませんが、重要なことです。多くの場合、ビジネスリーダー達はオープン ソースの重要性を理解していますが、なぜ重要なのかを把握したり、また、オープンソースからさらに多くの価値を引き出すノウハウを活用する事を OSPO に支援してもらう必要があります。 </g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu185" xml:space="preserve">
+<source xml:lang="en"><x id="1"/><g id="2">Future research</g></source>
+<target xml:lang="ja" state="translated"><x id="1"/><g id="2">今後の研究</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu186" xml:space="preserve">
+<source xml:lang="en"><g id="1">In this report, we have focused on the value of the OSPO in private institutions. One area of future research we would like to explore is how OSPOs provide value to governments, from municipalities to supra-national organizations. We would also like to do research that explores the role and the value of OSPOs exclusively at institutions of higher learning. If you have any thoughts about either subject or would like to share your insights, contact us at </g><g id="2">research@linuxfoundation.org</g><g id="3">. </g></source>
+<target xml:lang="ja" state="translated"><g id="1">このレポートでは、私立機関における OSPO の価値に焦点を当ててきました。私たちが将来的に調査しようとしている分野の 1 つは、地方自治体から国家組織までを含む政府組織に対して、OSPO がどのようにして価値を提供するかについてです。また、調査対象を高等教育機関に絞り、それらの機関において OSPO が果たす役割と価値についても調査する予定です。いずれかのテーマについてご意見がある場合、またはご自身の見解について共有したい場合は、</g><g id="2">research@linuxfoundation.org</g><g id="3"> までご連絡ください。 </g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu187" xml:space="preserve">
+<source xml:lang="en"><g id="1">About the authors</g></source>
+<target xml:lang="ja" state="translated"><g id="1">著者について</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu189" xml:space="preserve">
+<source xml:lang="en"><g id="1">Emily Omier</g><g id="2"> helps open source startups accelerate community and revenue growth with better positioning and messaging for both open source projects and commercial offerings. </g></source>
+<target xml:lang="ja" state="translated"><g id="1">Emily Omier</g><g id="2"> は、オープンソース プロジェクトと商用製品の両方のポジショニングとコマーシャルを改善することで、オープン ソース スタートアップによる、コミュニティと収益の成長の促進を支援しています。 </g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu191" xml:space="preserve">
+<source xml:lang="en"><g id="1">Ana Jiménez Santamaría</g><g id="2"> is the OSPO Program Manager at the TODO Group, a Linux Foundation project that brings together OSPO practitioners to collaborate on developing best practices, tools, and educational resources to drive successful Open Source Offices within organizations. Ana has a strong background in Open Source, DevRel, Community Health Analytics and InnerSource. She previously worked at Bitergia, a software development analytics firm, where she completed her MSc in Data Science. Her thesis focused on measuring the success of Developer Relations in Open Source communities. For more details on her thesis work, check out: </g><g id="3">https://anajimenezsantamaria.gitlab.io/</g><g id="4">. With her commitment to open source education, Ana is dedicated to helping organizations and individuals build healthy connections in the Open Source ecosystem. You can find Ana on </g><g id="5">Mastodon</g><g id="6">, LinkedIn, and </g><g id="7">Youtube</g><g id="8">.</g></source>
+<target xml:lang="ja" state="translated"><g id="1">Ana Jiménez Santamaría</g><g id="2"> は、TODO グループの OSPO プログラム マネージャーです。TODO グループは、 Linux Foundation プロジェクトであり、OSPO メンバーが共同で作業し、組織内のオープン ソース オフィスを成功に導くために最適な方法や、ツール、および教育リソースの開発を行っています。 Ana は、オープン ソース、DevRel、Community Health Analytics、および InnerSource に強いバックグラウンドを持っています。彼女は以前、ソフトウェア開発分析会社である Bitergia に勤務し、そこでデータ サイエンスの修士号を取得しました。彼女の論文は、オープン ソース コミュニティにおける開発者同士の良好な関係性の評価に焦点を当てていました。彼女の論文の詳細については、</g><g id="3">https://anajimenezsantamaria.gitlab.io/</g><g id="4"> をご覧ください。 Ana はオープンソース教育に取り組む事で、オープン ソース エコシステムにおいて組織も個人も建設的な関係を構築できるよう支援することに注力しています。 Anaの取り組みについては </g><g id="5">Mastodon</g><g id="6">、LinkedIn、</g><g id="7">Youtube</g><g id="8">で確認できます。</g></target>
+</trans-unit>
+<trans-unit id="P58710E28-tu195" xml:space="preserve">
+<source xml:lang="en"><g id="1">Chris Aniszczyk</g><g id="2"> is an open source technologist with a passion for building a better world through open collaboration. He’s currently a CTO at the Linux Foundation focused on developer experience and running the Cloud Native Computing Foundation (CNCF). In a previous life, he created the Twitter open source program and led their open source efforts. Also, for many years he served on the Eclipse Foundation’s Board of Directors representing the maintainer community and the Java Community Process (JCP) Executive Committee. Furthermore, he’s a partner at Capital Factory where he focuses on mentoring, advising and investing in open source and infrastructure focused startups.</g></source>
+<target xml:lang="ja" state="translated"><g id="1">Chris Aniszczyk</g><g id="2"> はオープン ソース技術者であり、オープンに共同作業する事でより良い世界を築きたいという情熱を持っています。彼は現在、開発者の経験に重きを置いたLinux Foundation の CTO であり、Cloud Native Computing Foundation (CNCF) を運営しています。以前は、Twitter オープン ソース プログラムを作成しており、オープン ソースへの取り組みを牽引していました。また、長年にわたり、メンテナー コミュニティと Java Community Process (JCP) 実行委員会を代表する Eclipse Foundation の理事会のメンバーを務めました。さらに、彼は Capital Factory のパートナーであり、オープンソースとインフラストラクチャに重点を置いたスタートアップの指導、助言、投資に注力しています。</g></target>
+</trans-unit>
+<group id="NE83A0DC2-rg1">
+<trans-unit id="N9D61FDC1-tu1" xml:space="preserve">
+<source xml:lang="en"><g id="1"><x id="2"/> https://www.linuxfoundation.org/research/a-deep-dive-into-open-source-program-offices</g></source>
+<target xml:lang="ja" state="translated"><g id="1"><x id="2"/> https://www.linuxfoundation.org/research/a-deep-dive-into-open-source-program-offices</g></target>
+</trans-unit>
+</group>
+<group id="P1F07A00A-rg1">
+<trans-unit id="P1DEE2FB-tu1" xml:space="preserve">
+<source xml:lang="en"><g id="1"><x id="2"/> https://www.linuxfoundation.org/research/a-deep-dive-into-open-source-program-offices</g></source>
+<target xml:lang="ja" state="translated"><g id="1"><x id="2"/> https://www.linuxfoundation.org/research/a-deep-dive-into-open-source-program-offices</g></target>
+</trans-unit>
+</group>
+<group id="P1F07A045-rg1">
+<trans-unit id="P8092B6B-tu1" xml:space="preserve">
+<source xml:lang="en"><g id="1"><x id="2"/> https://github.com/chaoss/wg-ospo</g></source>
+<target xml:lang="ja" state="translated"><g id="1"><x id="2"/> https://github.com/chaoss/wg-ospo</g></target>
+</trans-unit>
+</group>
+</body>
+</file>
+<file original="Stories/Story_u37f79.xml" source-language="en" target-language="ja" datatype="xml" okp:inputEncoding="UTF-8">
+<body>
+<trans-unit id="P5DD94B3E-tu1" xml:space="preserve">
+<source xml:lang="en"><g id="1">The Business Value of the OSPO</g></source>
+<target xml:lang="ja" state="translated"><g id="1">OSPO のビジネス価値</g></target>
+</trans-unit>
+</body>
+</file>
+<file original="Stories/Story_u37f41.xml" source-language="en" target-language="ja" datatype="xml" okp:inputEncoding="UTF-8">
+<body>
+<trans-unit id="P584A0559-tu1" xml:space="preserve">
+<source xml:lang="en"><g id="1">Copyright © 2022 </g><g id="2">TODO Group</g><g id="3"> | February 2022<x id="4"/>This report is licensed under the </g><g id="5">Creative Commons Attribution-NoDerivatives 4.0 International Public License</g></source>
+<target xml:lang="ja" state="translated"><g id="1">著作権 © 2022 </g><g id="2">TODO グループ</g><g id="3"> | 2022 年 2 月<x id="4"/>このレポートは、</g><g id="5">クリエイティブ コモンズ 表示 - 改変禁止 4.0 国際パブリック ライセンス</g>の下でライセンスされています。</target>
+</trans-unit>
+</body>
+</file>
+<file original="Stories/Story_u35cb3.xml" source-language="en" target-language="ja" datatype="xml" okp:inputEncoding="UTF-8">
+<body>
+</body>
+</file>
+<file original="Stories/Story_u38403.xml" source-language="en" target-language="ja" datatype="xml" okp:inputEncoding="UTF-8">
+<body>
+<trans-unit id="P647C6C0C-tu1" xml:space="preserve">
+<source xml:lang="en"><g id="1">Read Spotify’s End User Journey Report</g><g id="2"> as an example of how the company’s open source contributions have benefited themselves and projects they <x id="3"/>care about.</g></source>
+<target xml:lang="ja" state="translated"><g id="1">Spotify のエンド ユーザー ジャーニー レポートは</g><g id="2">、同社のオープン ソースへのコントリビューションがどのように自社や彼らが携わるプロジェクトに利益をもたらしたかを確認できる例となっていますので、ぜひ読んでみてください。<x id="3"/></g></target>
+</trans-unit>
+</body>
+</file>
+<file original="Stories/Story_u375db.xml" source-language="en" target-language="ja" datatype="xml" okp:inputEncoding="UTF-8">
+<body>
+<trans-unit id="N8CD3CB69-tu1" xml:space="preserve">
+<source xml:lang="en"><g id="1">Who starts the OSPOs?</g></source>
+<target xml:lang="ja" state="translated"><g id="1">OSPO を始動するのは誰なのでしょうか?</g></target>
+</trans-unit>
+<trans-unit id="N8CD3CB69-tu2" xml:space="preserve">
+<source xml:lang="en"><g id="1">While we associate open source with a grassroots effort from individual engineers, the overwhelming trend in the interviews was the support for OSPOs at the executive level. In the case of large technology companies, like VMware and Futurewei, the OSPO champion was the CEO. “The CEO realized, oh, open source is not just about technology,” said Xie, from Futurewei. “It is about business. So they had open source moved into the Chief Strategy Office, which is where we’re now.”</g></source>
+<target xml:lang="ja" state="translated"><g id="1">私たちはオープンソースを個々のエンジニアの草の根の取り組みと結びつけていますが、インタビューの中で圧倒的に見られた傾向としては、エグゼクティブ レベルで OSPO へのサポートが行われている事でした。 VMware や Futurewei といった大規模なテクノロジー企業の場合、CEO こそがOSPO の最大の支持者でした。 「我々の CEO はオープンソースの本質がただテクノロジーであるというだけでは終わらない事に気が付いています。オープンソースの本質はビジネスなのです。だから彼らはオープンソースを現在我々がいるチーフストラテジーオフィスに移したのです。」とFuturewei の Xie は述べています。 </g></target>
+</trans-unit>
+<trans-unit id="N8CD3CB69-tu3" xml:space="preserve">
+<source xml:lang="en"><g id="1">Even in more grassroots initiatives, high-level buy-in is common. “I went to our former CTO with that idea myself,” said Vlatko, of Wayfair. “He was very supportive and said, ‘Yes, go ahead’ but also was very realistic in the sense of I cannot guide you, I’m not an expert. And I said, ‘That’s okay. I’m the expert.’”</g></source>
+<target xml:lang="ja" state="translated"><g id="1">より草の根的な規模の企業であっても、オープンソースに対して高い賛同がある事が一般的です。 「私は以前の CTO に自身のアイディアを持ち込んだ事がありました。彼は非常に協力的で、「良いですね、やってみましょう。」と言ってくれました。ただ、自分はそのアイディアの先導は出来ない、エキスパートではない、という非常に現実的な考えを持っていました。私は「問題ありません。私がエキスパートですから。」と答えました」とWayfair の Vlatko は述べています。 </g></target>
+</trans-unit>
+<trans-unit id="N8CD3CB69-tu4" xml:space="preserve">
+<source xml:lang="en"><g id="1">The obvious takeaway is that in many companies, a strategic relationship with open source is a high-level business concern, not just a technical problem that a group of engineers should solve. </g></source>
+<target xml:lang="ja" state="translated"><g id="1">ここから明らかなのは、多くの企業では、オープン ソースとの戦略的関係は、単にエンジニア達が解決すべき技術的な問題という訳ではなく、ビジネス上の重要事項であるということです。 </g></target>
+</trans-unit>
+</body>
+</file>
+<file original="Stories/Story_u374c9.xml" source-language="en" target-language="ja" datatype="xml" okp:inputEncoding="UTF-8">
+<body>
+<trans-unit id="P53F6F3E0-tu1" xml:space="preserve">
+<source xml:lang="en"><g id="1">Who’s in the OSPO?</g></source>
+<target xml:lang="ja" state="translated"><g id="1">OSPO には誰がいるのでしょうか?</g></target>
+</trans-unit>
+<trans-unit id="P53F6F3E0-tu2" xml:space="preserve">
+<source xml:lang="en"><g id="1">The majority of OSPO leaders we spoke to had a software engineering background, but the work most of them do on a day-to-day basis is often not related to writing code. Instead, there are elements of internal communication, strategic planning, analysis, event planning, and collaboration with external organizations, which include open source communities, foundations, and other industry peers. </g></source>
+<target xml:lang="ja" state="translated"><g id="1">私たちが話をした OSPO リーダーの大半は、ソフトウェア エンジニアリングのバックグラウンドを持っていましたが、彼らの多くが日常的に行っている仕事は、多くの場合でコードを書くこととは関係ありません。それよりも、内部コミュニケーション、戦略的計画、分析、イベント計画、およびオープン ソース コミュニティや財団および他業界の同業者を含む外部組織との共同作業といった要素の仕事にあたっています。 </g></target>
+</trans-unit>
+<trans-unit id="P53F6F3E0-tu3" xml:space="preserve">
+<source xml:lang="en"><g id="1">In most cases, OSPO team members, and especially OSPO leaders, were senior engineers or at the management level. In companies with very structured salary bands, the OSPO leadership and team members would be toward the top of the salary ladder. </g></source>
+<target xml:lang="ja" state="translated"><g id="1">ほとんどの場合、OSPO のチーム メンバー、特に OSPO のリーダーは、ベテランの エンジニアであったり、管理者レベルの立場にありました。給与体系がしっかりしている企業では、OSPO のリーダーや メンバーは最も高い報酬を得ているようでした。 </g></target>
+</trans-unit>
+<trans-unit id="P53F6F3E0-tu4" xml:space="preserve">
+<source xml:lang="en"><g id="1">Given the importance of legal compliance for many organizations when the OSPO starts, it is notable that most OSPOs had access to legal expertise, either inside or outside the OSPO. However, none of the interviewees felt that there should be an expansion of the role of legal or that they needed additional legal expertise. </g></source>
+<target xml:lang="ja" state="translated"><g id="1">OSPO 発足時の多くの組織にとって法的なコンプライアンスの重要性を考えてみると、ほとんどの OSPO が OSPO の内部外部を問わない法律の専門家に手を貸してもらう事が出来たのは注目に値します。しかし、法務の役割を拡大したり、さらなる法律の専門知識が必要だと感じているインタビュー回答者はいませんでした。 </g></target>
+</trans-unit>
+</body>
+</file>
+<file original="Stories/Story_u378bd.xml" source-language="en" target-language="ja" datatype="xml" okp:inputEncoding="UTF-8">
+<body>
+<trans-unit id="P2838FAF0-tu1" xml:space="preserve">
+<source xml:lang="en"><g id="1">For further reading about OSPO Maturity models, check out these resources:</g></source>
+<target xml:lang="ja" state="translated"><g id="1">OSPO 成熟度モデルの詳細については、次のリソースをご覧ください:</g></target>
+</trans-unit>
+<trans-unit id="P2838FAF0-tu2" xml:space="preserve">
+<source xml:lang="en"><g id="1">• </g><g id="2"><x id="3"/><g id="4">OSPO Maturity Model</g></g><g id="5"> </g><g id="6">(Whitepaper) </g></source>
+<target xml:lang="ja" state="translated"><g id="1">• </g><g id="2"><x id="3"/><g id="4">OSPO 成熟度モデル</g></g><g id="5"> </g><g id="6">(ホワイトペーパー) </g></target>
+</trans-unit>
+<trans-unit id="P2838FAF0-tu3" xml:space="preserve">
+<source xml:lang="en"><g id="1">• <x id="2"/></g><g id="3">OSPO Maturity Model</g><g id="4"> </g><g id="5">(Repo) </g></source>
+<target xml:lang="ja" state="translated"><g id="1">• <x id="2"/></g><g id="3">OSPO 成熟度モデル</g><g id="4"> </g><g id="5">(レポ) </g></target>
+</trans-unit>
+<trans-unit id="P2838FAF0-tu4" xml:space="preserve">
+<source xml:lang="en"><g id="1">• <x id="2"/></g><g id="3">OSPO Maturity Model</g><g id="4"> <x id="5"/><g id="6">(Open Source Blog Article Explained)</g></g></source>
+<target xml:lang="ja" state="translated"><g id="1">• <x id="2"/></g><g id="3">OSPO 成熟度モデル</g><g id="4"> <x id="5"/><g id="6">(オープンソースのブログ記事の説明)</g></g></target>
+</trans-unit>
+</body>
+</file>
+<file original="Stories/Story_u3878c.xml" source-language="en" target-language="ja" datatype="xml" okp:inputEncoding="UTF-8">
+<body>
+<trans-unit id="P137A4AF7-tu1" xml:space="preserve">
+<source xml:lang="en"><g id="1">The Business Value of the OSPO</g></source>
+<target xml:lang="ja" state="translated"><g id="1">OSPO のビジネス価値</g></target>
+</trans-unit>
+</body>
+</file>
+<file original="Stories/Story_u2a54.xml" source-language="en" target-language="ja" datatype="xml" okp:inputEncoding="UTF-8">
+<body>
+<trans-unit id="NFD61F626-tu2" xml:space="preserve">
+<source xml:lang="en"><g id="1">TODO is a global community of OSPO practitioners from diverse sectors and regions. Its General Members include representatives from 90+ organizations with extensive experience in running successful open source programs. TODO aims to foster collaboration on best practices, tools, and guidance for managing open source projects through OSPOs.</g></source>
+<target xml:lang="ja" state="translated"><g id="1">TODO は、さまざまな部門や地域の OSPO メンバーのグローバル コミュニティです。そこのメンバーには、90 以上の組織の代表者も含まれており、彼らはオープンソースプログラムを好調に運用する事に関して豊富な経験を持っています。 TODO は、OSPO を通じてオープンソース プロジェクトの管理に最適な方法や、ツール、ガイダンスの共同開発を促進することを目的としています。</g></target>
+</trans-unit>
+<trans-unit id="NFD61F626-tu3" xml:space="preserve">
+<source xml:lang="en"><g id="1">By sharing experiences and developing common tooling, TODO seeks to improve OSPO adoption and education. Explore TODO’s ongoing initiatives like </g><g id="2">OSPOlogy</g><g id="3"> and active </g><g id="4">working groups</g><g id="5">, and check out the </g><g id="6">OSPO landscape</g><g id="7">, </g><g id="8">OSPO 101 training modules</g><g id="9">, and </g><g id="10">TODO Guides</g><g id="11"> to learn more.</g></source>
+<target xml:lang="ja" state="translated"><g id="1">経験を共有したり、共通のツールを開発することで、TODO は OSPO の採用と教育を向上させていく事を目指しています。 </g><g id="2">OSPOlogy</g><g id="3">やアクティブ</g><g id="4">ワーキング グループ</g>といった、TODO の進行中の取り組みをご覧ください<g id="5">、</g><g id="6">OSPO の状況について</g><g id="7">、</g><g id="8">OSPO 101 トレーニング モジュール</g><g id="9">、</g><g id="10">TODO ガイド</g><g id="11">で詳細をご覧ください。 </g></target>
+</trans-unit>
+<trans-unit id="NFD61F626-tu6" xml:space="preserve">
+<source xml:lang="en"><g id="1">Founded in 2021, </g><g id="2">Linux Foundation Research</g><g id="3"> explores the growing scale of open source collaboration, providing insight into emerging technology trends, best practices, and the global impact of open source projects. Through leveraging project databases and networks, and a commitment to best practices in quantitative and qualitative methodologies, Linux Foundation Research is creating the go-to repository for open source insights for the benefit of organizations the world over.</g></source>
+<target xml:lang="ja" state="translated"><g id="1">2021 年に設立された</g><g id="2">Linux Foundation Research</g><g id="3">は、オープンソースの共同開発の拡大規模を調査しており、台頭しているテクノロジーのトレンドや、ベストプラクティス、オープン ソース プロジェクトの世界的な影響に関して洞察を加えています。 Linux Foundation Research は、プロジェクト データベースとネットワークを活用し、定量的および定性的な方法論のベスト プラクティスへの取り組みを通じて、世界中の組織の利益のためにオープン ソース インサイトに関して信頼のおけるリポジトリを作成しています。</g></target>
+</trans-unit>
+<trans-unit id="NFD61F626-tu7" xml:space="preserve">
+<source xml:lang="en"><x id="1"/><g id="2"> <g id="3">Copyright © 2023 </g></g><g id="4">The Linux Foundation</g></source>
+<target xml:lang="ja" state="translated"><x id="1"/><g id="2"> <g id="3">著作権 © 2023 </g></g><g id="4">The Linux Foundation </g></target>
+</trans-unit>
+<trans-unit id="NFD61F626-tu8" xml:space="preserve">
+<source xml:lang="en"><g id="1">This report is licensed under the </g><g id="2">Creative Commons Attribution-NoDerivatives 4.0 International <x id="3"/>Public License</g><g id="4">.</g></source>
+<target xml:lang="ja" state="translated"><g id="1">このレポートは、</g><g id="2">クリエイティブ コモンズ 表示 - 改変禁止 4.0 国際 <x id="3"/>パブリック ライセンス<g id="4">.</g></g></target>
+</trans-unit>
+<trans-unit id="NFD61F626-tu9" xml:space="preserve">
+<source xml:lang="en"><g id="1">To reference this work, please cite as follows: Emily Omier, Chris Aniszczyk, and Ana Jiménez Santamaría, “The Business Value of the OSPO: An Exploration of Why Organizations Create, Sustain, and Expand Open Source Program Offices (OSPOs),” forewords by Georg Kunz, Leslie Hawthorn, and Kimberly Craven, The Linux Foundation, March 2023.</g></source>
+<target xml:lang="ja" state="translated"><g id="1">この作品を参照するには、次のように引用してください。 Expand Open Source Program Offices (OSPOs)」、Georg Kunz、Leslie Hawthorn、Kimberly Craven による序文、The Linux Foundation、2023 年 3 月。</g></target>
+</trans-unit>
+</body>
+</file>
+<file original="Stories/Story_u38804.xml" source-language="en" target-language="ja" datatype="xml" okp:inputEncoding="UTF-8">
+<body>
+<trans-unit id="P38237091-tu1" xml:space="preserve">
+<source xml:lang="en"><x id="1"/><g id="2"> <g id="3">twitter.com/todogroup</g><x id="4"/><x id="5"/> </g><g id="6">github.com/todogroup</g><g id="7"><x id="8"/><x id="9"/> <g id="10">linkedin.com/company/todo-group</g></g></source>
+<target xml:lang="ja" state="translated"><x id="1"/><g id="2"> <g id="3">twitter.com/todogroup</g><x id="4"/><x id="5"/> </g><g id="6">github.com/todogroup</g><g id="7"><x id="8"/><x id="9"/> <g id="10">linkedin.com/company/todo-group</g></g></target>
+</trans-unit>
+<trans-unit id="P38237091-tu2" xml:space="preserve">
+<source xml:lang="en"><x id="1"/><g id="2"> </g><g id="3">mastodon.world/@todogroup</g></source>
+<target xml:lang="ja" state="translated"><x id="1"/><g id="2"> </g><g id="3">mastodon.world/@todogroup</g></target>
+</trans-unit>
+</body>
+</file>
+<file original="Stories/Story_u2932.xml" source-language="en" target-language="ja" datatype="xml" okp:inputEncoding="UTF-8">
+<body>
+<trans-unit id="NB5E2D3BE-tu1" xml:space="preserve">
+<source xml:lang="en"><x id="1"/><g id="2"> <g id="3">twitter.com/linuxfoundation</g><x id="4"/><x id="5"/> <g id="6">facebook.com/TheLinuxFoundation</g><x id="7"/><x id="8"/> <g id="9">linkedin.com/company/the-linux-foundation</g><g id="10"><x id="11"/><x id="12"/></g> <g id="13">youtube.com/user/TheLinuxFoundation</g></g></source>
+<target xml:lang="ja" state="translated"><x id="1"/><g id="2"> <g id="3">twitter.com/linuxfoundation</g><x id="4"/><x id="5"/> <g id="6">facebook.com/TheLinuxFoundation</g><x id="7"/><x id="8"/> <g id="9">リンクされています。 com/company/the-linux-foundation</g><g id="10"><x id="11"/><x id="12"/></g> <g id="13">youtube.com/user/TheLinuxFoundation</g></g></target>
+</trans-unit>
+</body>
+</file>
+<file original="Stories/Story_u35d3e.xml" source-language="en" target-language="ja" datatype="xml" okp:inputEncoding="UTF-8">
+<body>
+<trans-unit id="P1FE322AE-tu1" xml:space="preserve">
+<source xml:lang="en"><g id="1">A </g><g id="2">well-designed OSPO is the center of competency</g><g id="3"> for an organization’s open source operations and structure.</g></source>
+<target xml:lang="ja" state="translated"><g id="1"/><g id="2">適切に構築された OSPO は、組織のオープン ソース運用や組織構造のコンピテンシーの中心です。</g><g id="3"></g></target>
+</trans-unit>
+</body>
+</file>
+</xliff>

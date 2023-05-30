@@ -1,0 +1,7 @@
+forewords.md
+Introduction.md
+What-can-OSPOs-do-for-organizations.md
+The-OSPO-journey.md
+The-different-hats-of-an-OSPO.md
+Measuring-an-OSPO’s-success.md
+Conclusion.md
