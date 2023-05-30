@@ -1,12 +1,18 @@
 #!/usr/bin/bash
 
+## Set filepath variables
+
 md_path="../"
-list="./md_list.txt"
-tmp="/tmp/tempfile.md"
-output="./md_merge1.md"
+list="./md_list.txt"    # translated md files list by order of chapter
+tmp="/tmp/tempfile.md"  # temporary file (remove at the end )
+output="./md_merge1.md" # output file name 
+
+## Initialize files to use 
 cat /dev/null  > $tmp
 cat /dev/null  > $output
 
+
+## read and concatenate translated md files into one file
 for line in `cat $list`
 do
    cat ${md_path}${line}| \
@@ -15,6 +21,8 @@ do
           >> $tmp
    echo "done"
 done
+
+## read each line from the concatenated file, and recover to XLIFF tags and so on 
 
 i=0
 
@@ -29,7 +37,7 @@ do
   elif [ $m -eq 3 ];then
      echo $line |sed -E 's/^/<target xml:lang="ja" state="translated">/'|sed -E 's/$/<\/target>/' >> $output
   else 
-     echo "do nothing" > /dev/null
+     echo "do nothing" > /dev/null  # Delete machine translation
   fi 
   i=`expr $i + 1`
 
@@ -38,7 +46,3 @@ done < $tmp
 rm $tmp
 
 exit
-
-#cat $tmp|sed  -E 's/$/\n$/g' >  $output
-cat $tmp|awk 'NR%4!=1'|sed -i -E 's/^/ <source xml:lang="en">/g' > 
-#cat $tmp|awk 'NR%4!=3'  > $output #Remove Machine translation ( 4n+1 th line) 
